@@ -10,20 +10,23 @@ function setup()
 	//colorMode(HSB,360,100,100);
 	//background(92,219,149);
 	background(255);
+	textSize(48);
 }
 
 function draw()
 {
 	background(255);
-	testp.drawPinT2(mouseX,mouseY);
-	if (mouseIsPressed)
-	{
-		placePin();
-	}
+	testp.drawPinT2(mouseX,mouseY);	
+
 	for (var i = 0; i < mci; i++)
 	{
-		drawPlacedPins(posArray[i].x,posArray[i].y);
+		drawPlacedPins(posArray[i].x,posArray[i].y,i);
 	}
+}
+
+function mouseClicked()
+{
+	placePin();	
 }
 
 function pin() {
@@ -67,8 +70,10 @@ function placePin()
 		posArray.push(tp);
 }
 
-function drawPlacedPins(x,y)
+function drawPlacedPins(x,y,pn)
 {
 		var tp = new pin();
 		tp.drawPinT2(x,y);
+		fill(0);
+		text(pn.toString(),x-15,y-75);
 }
