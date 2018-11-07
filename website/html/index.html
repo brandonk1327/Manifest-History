@@ -2,6 +2,10 @@
 <html>
 
 <head>
+	<!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="../css/style.css">
     <style>
@@ -37,42 +41,47 @@
     }
 
     .slidecontainer {
-        width: 100%;
+    width: 25%;
+	margin-left: 20px;
     }
 
     .slider {
-        -webkit-appearance: none;
-        width: 100%;
-        height: 10px;
-        border-radius: 5px;
-        background: #d3d3d3;
-        outline: none;
-        opacity: 0.7;
-        -webkit-transition: .2s;
-        transition: opacity .2s;
+    -webkit-appearance: none;
+    width: 25%;
+    height: 10px;
+    border-radius: 5px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
     }
 
     .slider:hover {
-        opacity: 1;
+    opacity: 1;
     }
 
     .slider::-webkit-slider-thumb {
-        -webkit-appearance: none;
-        appearance: none;
-        width: 25px;
-        height: 25px;
-        border-radius: 50%;
-        background: #4CAF50;
-        cursor: pointer;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #4CAF50;
+    cursor: pointer;
     }
 
     .slider::-moz-range-thumb {
-        width: 25px;
-        height: 25px;
-        border-radius: 50%;
-        background: #4CAF50;
-        cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #4CAF50;
+    cursor: pointer;
     }
+	
+	.table-responsive {
+		margin-left: 20px;
+	}
     </style>
 </head>
 
@@ -467,15 +476,60 @@
 
     <!-- <img src="../assets/USAmap.svg" alt="USA Map"> -->
 
-    <div>
-        <div class="""slidecontainer">
-            <button type="button">-</button>
-            <input type="range" min="1900" max="2000" value="1900" class="slider" id="myRange">
-            <button type="button">+</button>
-            <p>Value: <span id="demo"></span></p>
+    <p>&nbsp;</p>
+	
+	<!-- Slider -->
+	
+	<div>
+		<div class="slidecontainer">
+			<input id="yearText" type="text" name="Yeartxt" value="Year">
+			<input id="yearButton" onclick="textInput()" type="submit" value="Enter">
+			<p></p>			
+		<input type="range" min="1900" max="2000" value="1900" class="slider" id="myRange" size="50%">
+		<p></p>
+		<div class="btn-group">
+				<p>Year: <span id="demo"></span></p>
+				<button id="buttonDown" onclick="decrease()">-</button>
+				<button id="buttonUp" onclick="increase()">+</button>
+			</div>	
         </div>
-        <div id="events"></div>
-    </div>
+        
+		<p></p>
+		
+		<!-- Event table -->
+		
+		<div class="table-responsive">
+				<table class="table table-striped table-sm">
+					<thead>
+						<tr>
+							<th style="width: 3%">Date:</th>
+							<th>Details:</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td id='data0'></td>
+							<td id='data1'></td>
+						</tr>
+						<tr>
+							<td id='data2'></td>
+							<td id='data3'></td>
+						</tr>
+						<tr>
+							<td id='data4'></td>
+							<td id='data5'></td>
+						</tr>
+						<tr>
+							<td id='data6'></td>
+							<td id='data7'></td>
+						</tr>
+						<tr>
+							<td id='data8'></td>
+							<td id='data9'></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
 
     <!-- Nav Bar Script -->
     <script>
@@ -535,48 +589,93 @@
     </script>
     <!-- Slider Script -->
     <script>
-        var events1900 = ["January 8 United States President William McKinley places Alaska under military rule.", "January 29 The American League of Professional Baseball Clubs is organized in Philadelphia, Pennsylvania with 8 founding teams.",
-            "April 30 Hawaii becomes an official U.S. territory.", "July 25 The Robert Charles Riots occur in New Orleans, Louisiana, United States.", "September 8 The Galveston Hurricane makes landfall at Galveston, Texas, eventually killing 6,000 12,000 in the deadliest natural disaster in U.S. history."
-        ];
-        var events2000 = ["March 20 Jamil Abdullah Al-Amin (H. Rap Brown), a former Black Panther, is captured after a gun battle in Atlanta, Georgia that leaves a sheriff's deputy dead.", "March 27 The Phillips explosion of 2000 kills one and injures 71 in Pasadena, Texas.",
-            "May 24 Five people are shot and killed during a robbery at a Wendy's in Queens, New York.", "July 31 August 3 The Republican National Convention in Philadelphia, Pennsylvania nominates Texas Governor George W. Bush for U.S. President and Dick Cheney for Vice President.", "October 11 250 million US gallons (950,000 m3) of coal sludge spill in Martin County, Kentucky (considered a greater environmental disaster than the Exxon Valdez oil spill)."
-        ];
-        var slider = document.getElementById("myRange");
-        var output = document.getElementById("demo");
-        output.innerHTML = slider.value;
+        var events1900 = ["01/29","United States President William McKinley places Alaska under military rule.","01/29","The American League of Professional Baseball Clubs is organized in Philadelphia, Pennsylvania with 8 founding teams.","04/30","Hawaii becomes an official U.S. territory.","07/25","The Robert Charles Riots occur in New Orleans, Louisiana, United States.","09/08","The Galveston Hurricane makes landfall at Galveston, Texas, eventually killing 6,000–12,000 in the deadliest natural disaster in U.S. history."];
+		var events1986 = ["01/28","Space Shuttle Challenger disaster claims the lives of its seven crew members.","04/14","U.S. bombs military bases in Libya in effort to deter terrorist strikes on American targets."]
+        var events1989 = ["12/20","U.S. forces invade Panama in an attempt to capture Gen. Manuel Noriega, who previously had been indicted in the U.S. on drug trafficking charges.","03/24","Oil tanker Exxon Valdez runs aground in Prince William Sound, spilling more than 10 million gallons of oil. It is the largest oil spills in U.S. history."];
+		var events1990 = ["09/02","Iraqi troops invade Kuwait, leading to the Persian Gulf War."];
+		var events1991 = ["04/06","Iraq accepts terms of UN ceasefire, marking an end of the war."];		
+		var events2000 = ["03/20","Jamil Abdullah Al-Amin (H. Rap Brown), a former Black Panther, is captured after a gun battle in Atlanta, Georgia that leaves a sheriff's deputy dead.","03/27","The Phillips explosion of 2000 kills one and injures 71 in Pasadena, Texas.","05/24","Five people are shot and killed during a robbery at a Wendy's in Queens, New York.","08/03","The Republican National Convention in Philadelphia, Pennsylvania nominates Texas Governor George W. Bush for U.S. President and Dick Cheney for Vice President.","10/11","250 million US gallons (950,000 m3) of coal sludge spill in Martin County, Kentucky (considered a greater environmental disaster than the Exxon Valdez oil spill)."];
+		var eventsDefault = ["TBD","---","TBD","---","TBD","---","TBD","---","TBD","---"];
+		var slider = document.getElementById("myRange");
+		var output = document.getElementById("demo");
+		output.innerHTML = slider.value;
+		updateData();
+		
+		var yearInput = document.getElement.ById("yearText").value;
+		yearPress.addEventListener('click',);
+		
+		function textInput() {
+			slider.value = yearInput;
+			output.innerHTML = slider.value
+			updateData();
+		}
+		
+		function decrease() {
+			slider.value--;
+			output.innerHTML = slider.value;
+			updateData();
+			}
+		function increase() {
+			slider.value++;
+			output.innerHTML = slider.value;
+			updateData();
+		}
 
-        slider.oninput = function() {
+		function getArray() {
+			var currentYear = slider.value;
+				switch (currentYear) {
+					case "1900":
+						return events1900;
+						break;
+					case "1986":
+						return events1986;
+						break;
+					case "1989":
+						return events1989;
+						break;
+					case "1990":
+						return events1990;
+						break;
+					case "1991":
+						return events1991;
+						break;
+					case "2000":
+						return events2000;
+						break;
+					default:
+						return eventsDefault;
+					}
+			}
+				
+		slider.oninput = function() {
+				updateData();
+         }
+		 
+		 function updateData() {
+		 	output.innerHTML = slider.value;
+		  		var element0 = document.getElementById("data0");
+				element0.innerHTML = getArray()[0];
+				var element1 = document.getElementById("data1");
+				element1.innerHTML = getArray()[1];
+				var element2 = document.getElementById("data2");
+				element2.innerHTML = getArray()[2];
+				var element3 = document.getElementById("data3");
+				element3.innerHTML = getArray()[3];
+				var element4 = document.getElementById("data4");
+				element4.innerHTML = getArray()[4];
+				var element5 = document.getElementById("data5");
+				element5.innerHTML = getArray()[5];
+				var element6 = document.getElementById("data6");
+				element6.innerHTML = getArray()[6];
+				var element7 = document.getElementById("data7");
+				element7.innerHTML = getArray()[7];
+				var element8 = document.getElementById("data8");
+				element8.innerHTML = getArray()[8];
+				var element9 = document.getElementById("data9");
+				element9.innerHTML = getArray()[9];
+		 }
 
-            if (slider.value > 1899 && slider.value < 1950) {
-                while (document.getElementById('events').firstChild) {
-                    document.getElementById('events').removeChild(document.getElementById('events').firstChild);
-                }
-                document.getElementById('events').appendChild(switchOl(events1900));
-                output.innerHTML = 1900;
-            }
-            if (slider.value > 1950 && slider.value < 2001) {
-                while (document.getElementById('events').firstChild) {
-                    document.getElementById('events').removeChild(document.getElementById('events').firstChild);
-                }
-                document.getElementById('events').appendChild(switchOl(events2000));
-                output.innerHTML = "2000";
-            }
-
-        }
-
-        function switchOl(array) {
-            var list = document.createElement('ol');
-
-            for (var i = 0; i < array.length; i++) {
-                var item = document.createElement('li');
-                item.appendChild(document.createTextNode(array[i]));
-                list.appendChild(item);
-            }
-
-            return list;
-        }
-
-    </script>
+		</script>
 
 </body>
 
