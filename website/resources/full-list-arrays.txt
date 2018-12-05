@@ -1,6 +1,9 @@
 
 --1941
 "12/07" , " Japan attacks Hawaii, Guam, and the Philippines."
+--1943
+"06/20" , " Detroit Race Riots"
+
 
 --1944
 "1/20" , "F. Roosevelt's fourth inauguration" 
