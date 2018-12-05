@@ -32,19 +32,17 @@
         color:#aaaa;
         float: right;
         font-size: 28px;
-        font-weight: bold;        
+        font-weight: bold;
     }
     .close:hover, .close:focus{
         color: black;
         text-decoration: none;
         cursor: pointer;
     }
-
     .slidecontainer {
     width: 25%;
 	margin-left: 20px;
     }
-
     .slider {
     -webkit-appearance: none;
     width: 25%;
@@ -57,11 +55,9 @@
     transition: opacity .2s;
 	display: inline-block;
     }
-
     .slider:hover {
     opacity: 1;
     }
-
     .slider::-webkit-slider-thumb {
     -webkit-appearance: none;
     appearance: none;
@@ -71,7 +67,6 @@
     background: #4CAF50;
     cursor: pointer;
     }
-
     .slider::-moz-range-thumb {
     width: 25px;
     height: 25px;
@@ -79,7 +74,7 @@
     background: #4CAF50;
     cursor: pointer;
     }
-	
+
 	.table-responsive {
 		margin-left: 20px;
 	}
@@ -478,9 +473,9 @@
     <!-- <img src="../assets/USAmap.svg" alt="USA Map"> -->
 
     <p>&nbsp;</p>
-	
+
 	<!-- Slider -->
-	
+
 	<div>
 		<div class="slidecontainer">
 			<input type="text" id="yearText" value="" onkeydown = "if (event.keyCode == 13)
@@ -493,13 +488,13 @@
 				<p>Year: <span id="demo"></span></p>
 				<button id="buttonDown" onclick="decrease()">-</button>
 				<button id="buttonUp" onclick="increase()">+</button>
-			</div>	
+			</div>
 		</div>
-        
+
 		<p></p>
-		
+
 		<!-- Event table -->
-		
+
 		<div class="table-responsive">
 				<table class="table table-striped table-sm">
 					<thead>
@@ -538,17 +533,14 @@
         function openNav() {
             document.getElementById("mySidenav").style.width = "250px";
         }
-
         function closeNav() {
             document.getElementById("mySidenav").style.width = "0";
         }
-
     </script>
     <!-- Map Modal Script -->
     <script>
         (function iife() {
             "use strict";
-
             function closestEl(el, selector) {
                 var doc = el.document || el.ownerDocument;
                 var matches = doc.querySelectorAll(selector);
@@ -572,7 +564,6 @@
                     document.getElementById(modal).style.display = "block";
                 };
             });
-
             var closeBtns = document.querySelectorAll(".close");
             closeBtns.forEach(function addCloseClickEvent(btn) {
                 btn.onclick = function closeModal() {
@@ -580,36 +571,52 @@
                     modal.style.display = "none";
                 };
             });
-
             window.onclick = function closeOnClick(event) {
                 if (event.target.className === "modal") {
                     event.target.style.display = "none";
                 }
             };
         }());
-
     </script>
     <!-- Slider Script -->
     <script>
-        var events1900 = ["01/29","United States President William McKinley places Alaska under military rule.","01/29","The American League of Professional Baseball Clubs is organized in Philadelphia, Pennsylvania with 8 founding teams.","04/30","Hawaii becomes an official U.S. territory.","07/25","The Robert Charles Riots occur in New Orleans, Louisiana, United States.","09/08","The Galveston Hurricane makes landfall at Galveston, Texas, eventually killing 6,000–12,000 in the deadliest natural disaster in U.S. history."];
-		var events1986 = ["01/28","Space Shuttle Challenger disaster claims the lives of its seven crew members.","04/14","U.S. bombs military bases in Libya in effort to deter terrorist strikes on American targets."]
-        var events1989 = ["12/20","U.S. forces invade Panama in an attempt to capture Gen. Manuel Noriega, who previously had been indicted in the U.S. on drug trafficking charges.","03/24","Oil tanker Exxon Valdez runs aground in Prince William Sound, spilling more than 10 million gallons of oil. It is the largest oil spills in U.S. history."];
-		var events1990 = ["09/02","Iraqi troops invade Kuwait, leading to the Persian Gulf War."];
-		var events1991 = ["04/06","Iraq accepts terms of UN ceasefire, marking an end of the war."];		
-		var events2000 = ["03/20","Jamil Abdullah Al-Amin (H. Rap Brown), a former Black Panther, is captured after a gun battle in Atlanta, Georgia that leaves a sheriff's deputy dead.","03/27","The Phillips explosion of 2000 kills one and injures 71 in Pasadena, Texas.","05/24","Five people are shot and killed during a robbery at a Wendy's in Queens, New York.","08/03","The Republican National Convention in Philadelphia, Pennsylvania nominates Texas Governor George W. Bush for U.S. President and Dick Cheney for Vice President.","10/11","250 million US gallons (950,000 m3) of coal sludge spill in Martin County, Kentucky (considered a greater environmental disaster than the Exxon Valdez oil spill)."];
-		var eventsDefault = ["TBD","---","TBD","---","TBD","---","TBD","---","TBD","---"];
+    var events1900 = ["01/29","United States President William McKinley places Alaska under military rule.","01/29","The American League of Professional Baseball Clubs is organized in Philadelphia, Pennsylvania with 8 founding teams.","04/30","Hawaii becomes an official U.S. territory.","07/25","The Robert Charles Riots occur in New Orleans, Louisiana, United States.","09/08","The Galveston Hurricane makes landfall at Galveston, Texas, eventually killing 6,000–12,000 in the deadliest natural disaster in U.S. history."];
+
+
+    var events1941 = ["12/07" , " Japan attacks Hawaii, Guam, and the Philippines."];
+
+    var events1943 = ["06/20" , "Detroit Race Riots" ]
+
+    var events1944 = ["1/20" , "F. Roosevelt's fourth inauguration" , "06/06" , " Allies invade France on D-Day." ]
+
+    var events1945 = ["08/06" , "U.S. drops atomic bomb on Hiroshima, Japan.","08/09", "U.S. drops atomic bomb on Nagasaki, Japan.",]
+
+
+    var events1902 = ["3/14" , " Testing i'm adopted"]; 
+
+
+var events1986 = ["01/28","Space Shuttle Challenger disaster claims the lives of its seven crew members.","04/14","U.S. bombs military bases in Libya in effort to deter terrorist strikes on American targets."]
+    var events1989 = ["12/20","U.S. forces invade Panama in an attempt to capture Gen. Manuel Noriega, who previously had been indicted in the U.S. on drug trafficking charges.","03/24","Oil tanker Exxon Valdez runs aground in Prince William Sound, spilling more than 10 million gallons of oil. It is the largest oil spills in U.S. history."];
+var events1990 = ["09/02","Iraqi troops invade Kuwait, leading to the Persian Gulf War."];
+var events1991 = ["04/06","Iraq accepts terms of UN ceasefire, marking an end of the war."];
+
+    var events1995 = [ "04/19" , " Bombing of federal office building in Oklahoma City kills 168 people."];
+
+
+var events2000 = ["03/20","Jamil Abdullah Al-Amin (H. Rap Brown), a former Black Panther, is captured after a gun battle in Atlanta, Georgia that leaves a sheriff's deputy dead.","03/27","The Phillips explosion of 2000 kills one and injures 71 in Pasadena, Texas.","05/24","Five people are shot and killed during a robbery at a Wendy's in Queens, New York.","08/03","The Republican National Convention in Philadelphia, Pennsylvania nominates Texas Governor George W. Bush for U.S. President and Dick Cheney for Vice President.","10/11","250 million US gallons (950,000 m3) of coal sludge spill in Martin County, Kentucky (considered a greater environmental disaster than the Exxon Valdez oil spill)."];
+var eventsDefault = ["TBD","---","TBD","---","TBD","---","TBD","---","TBD","---"];
 		var yearText = document.getElementById("yearText");
 		var slider = document.getElementById("myRange");
 		var output = document.getElementById("demo");
 		output.innerHTML = slider.value;
 		updateData();
-		
+
 		function textInput() {
 			slider.value = parseInt(yearText.value);
 			output.innerHTML = slider.value;
 			updateData();
 		}
-		
+
 		function decrease() {
 			slider.value--;
 			output.innerHTML = slider.value;
@@ -627,9 +634,274 @@
 					case "1900":
 						return events1900;
 						break;
+            case "1901" :
+            return events1901;
+            break;
+            case "1902" :
+            return events1902;
+            break;
+            case "1903" :
+            return events1903;
+            break;
+            case "1904" :
+            return events1904;
+            break;
+            case "1905" :
+            return events1905;
+            break;
+            case "1906" :
+            return events1906;
+            break;
+            case "1907" :
+            return events1907;
+            break;
+            case "1908" :
+            return events1908;
+            break;
+            case "1909" :
+            return events1909;
+            break;
+            case "1910" :
+            return events1910;
+            break;
+            case "1911" :
+            return events1911;
+            break;
+            case "1912" :
+            return events1912;
+            break;
+            case "1913" :
+            return events1913;
+            break;
+            case "1914" :
+            return events1914;
+            break;
+            case "1915" :
+            return events1915;
+            break;
+            case "1916" :
+            return events1916;
+            break;
+            case "1917" :
+            return events1917;
+            break;
+            case "1918" :
+            return events1918;
+            break;
+            case "1919" :
+            return events1919;
+            break;
+            case "1920" :
+            return events1920;
+            break;
+            case "1921" :
+            return events1921;
+            break;
+            case "1922" :
+            return events1922;
+            break;
+            case "1923" :
+            return events1923;
+            break;
+            case "1924" :
+            return events1924;
+            break;
+            case "1925" :
+            return events1925;
+            break;
+            case "1926" :
+            return events1926;
+            break;
+            case "1927" :
+            return events1927;
+            break;
+            case "1928" :
+            return events1928;
+            break;
+            case "1929" :
+            return events1929;
+            break;
+            case "1930" :
+            return events1930;
+            break;
+            case "1931" :
+            return events1931;
+            break;
+            case "1932" :
+            return events1932;
+            break;
+            case "1933" :
+            return events1933;
+            break;
+            case "1934" :
+            return events1934;
+            break;
+            case "1935" :
+            return events1935;
+            break;
+            case "1936" : //RIP
+            return events1936;
+            break;
+            case "1937" :
+            return events1937;
+            break;
+            case "1938" :
+            return events1938;
+            break;
+            case "1939" :
+            return events1939;
+            break;
+            case "1940" :
+            return events1940;
+            break;
+
+          case "1941":
+          return events1941;
+          break;
+          case "1942" :
+          return events1942;
+          break;
+          case"1943" :
+          return events1943;
+          break;
+
+case "1944" :
+return events1944;
+break;
+
+              case "1945" :
+              return events1945
+              break;
+
+              case "1946" :
+              return events1946;
+              break;
+              case "1947" :
+              return events1947;
+              break;
+              case "1948" :
+              return events1948;
+              break;
+              case "1949" :
+              return events1949;
+              break;
+              case "1950" :
+              return events1950;
+              break;
+              case "1951" :
+              return events1951;
+              break;
+              case "1952" :
+              return events1952;
+              break;
+              case "1953" :
+              return events1953;
+              break;
+              case "1954" :
+              return events1954;
+              break;
+              case "1955" :
+              return events1955;
+              break;
+              case "1956" :
+              return events1956;
+              break;
+              case "1957" :
+              return events1957;
+              break;
+              case "1958" :
+              return events1958;
+              break;
+              case "1959" :
+              return events1959;
+              break;
+              case "1960" :
+              return events1960;
+              break;
+              case "1961" :
+              return events1961;
+              break;
+              case "1962" :
+              return events1962;
+              break;
+              case "1963" :
+              return events1963;
+              break;
+              case "1964" :
+              return events1964;
+              break;
+              case "1965" :
+              return events1965;
+              break;
+              case "1966" :
+              return events1966;
+              break;
+              case "1967" :
+              return events1967;
+              break;
+              case "1968" :
+              return events1968;
+              break;
+              case "1969" :
+              return events1969;
+              break;
+              case "1970" :
+              return events1970;
+              break;
+              case "1971" :
+              return events1971;
+              break;
+              case "1972" :
+              return events1972;
+              break;
+              case "1973" :
+              return events1973;
+              break;
+              case "1974" :
+              return events1974;
+              break;
+              case "1975" :
+              return events1975;
+              break;
+              case "1976" :
+              return events1976;
+              break;
+              case "1977" :
+              return events1977;
+              break;
+              case "1978" :
+              return events1978;
+              break;
+              case "1979" :
+              return events1979;
+              break;
+              case "1980" :
+              return events1980;
+              break;
+              case "1981" :
+              return events1981;
+              break;
+              case "1982" :
+              return events1982;
+              break;
+              case "1983" :
+              return events1983;
+              break;
+              case "1984" :
+              return events1984;
+              break;
+              case "1985" :
+              return events1985;
+              break;
 					case "1986":
 						return events1986;
 						break;
+            case "1987" :
+            return events1987;
+            break;
+            case "1988" :
+            return events1988;
+            break;
 					case "1989":
 						return events1989;
 						break;
@@ -639,6 +911,24 @@
 					case "1991":
 						return events1991;
 						break;
+            case "1992" :
+            return events1992;
+            break;
+            case "1993" :
+            return events1993;
+            break;
+            case "1995" :
+            return events1995;
+            break;
+            case "1996" :
+            return events1996;
+            break;
+            case "1997" :
+            return events1997;
+            break;
+            case "1998" :
+            return events1999;
+            break;
 					case "2000":
 						return events2000;
 						break;
@@ -646,33 +936,35 @@
 						return eventsDefault;
 					}
 			}
-			
-		 function updateData() {
-		 	output.innerHTML = slider.value;
-		  		var element0 = document.getElementById("data0");
-				element0.innerHTML = getArray()[0];
-				var element1 = document.getElementById("data1");
-				element1.innerHTML = getArray()[1];
-				var element2 = document.getElementById("data2");
-				element2.innerHTML = getArray()[2];
-				var element3 = document.getElementById("data3");
-				element3.innerHTML = getArray()[3];
-				var element4 = document.getElementById("data4");
-				element4.innerHTML = getArray()[4];
-				var element5 = document.getElementById("data5");
-				element5.innerHTML = getArray()[5];
-				var element6 = document.getElementById("data6");
-				element6.innerHTML = getArray()[6];
-				var element7 = document.getElementById("data7");
-				element7.innerHTML = getArray()[7];
-				var element8 = document.getElementById("data8");
-				element8.innerHTML = getArray()[8];
-				var element9 = document.getElementById("data9");
-				element9.innerHTML = getArray()[9];
-		 }
 
-		</script>
 
-</body>
+      		 function updateData() {
+      		 	output.innerHTML = slider.value;
+      		  		var element0 = document.getElementById("data0");
+      				element0.innerHTML = getArray()[0];
+      				var element1 = document.getElementById("data1");
+      				element1.innerHTML = getArray()[1];
+      				var element2 = document.getElementById("data2");
+      				element2.innerHTML = getArray()[2];
+      				var element3 = document.getElementById("data3");
+      				element3.innerHTML = getArray()[3];
+      				var element4 = document.getElementById("data4");
+      				element4.innerHTML = getArray()[4];
+      				var element5 = document.getElementById("data5");
+      				element5.innerHTML = getArray()[5];
+      				var element6 = document.getElementById("data6");
+      				element6.innerHTML = getArray()[6];
+      				var element7 = document.getElementById("data7");
+      				element7.innerHTML = getArray()[7];
+      				var element8 = document.getElementById("data8");
+      				element8.innerHTML = getArray()[8];
+      				var element9 = document.getElementById("data9");
+      				element9.innerHTML = getArray()[9];
+      		 }
+      		</script>
+
+      </body>
+
+      </html>
 
 </html>
