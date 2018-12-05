@@ -55,6 +55,7 @@
     opacity: 0.7;
     -webkit-transition: .2s;
     transition: opacity .2s;
+	display: inline-block;
     }
 
     .slider:hover {
@@ -482,17 +483,18 @@
 	
 	<div>
 		<div class="slidecontainer">
-			<input id="yearText" type="text" name="Yeartxt" value="Year">
-			<input id="yearButton" onclick="textInput()" type="submit" value="Enter">
-			<p></p>			
-		<input type="range" min="1900" max="2000" value="1900" class="slider" id="myRange" size="50%" oninput="updateData()">
-		<p></p>
-		<div class="btn-group">
+			<input type="text" id="yearText" value="" onkeydown = "if (event.keyCode == 13)
+                        document.getElementById('yearPress').click()">
+			<input type="submit" id="yearPress" onclick="textInput()" value="Enter" >
+			<p></p>
+			<input type="range" min="1900" max="2000" value="1900" class="slider" id="myRange" size="50%" oninput="updateData()">
+			<p></p>
+			<div class="btn-group">
 				<p>Year: <span id="demo"></span></p>
 				<button id="buttonDown" onclick="decrease()">-</button>
 				<button id="buttonUp" onclick="increase()">+</button>
 			</div>	
-        </div>
+		</div>
         
 		<p></p>
 		
@@ -596,17 +598,15 @@
 		var events1991 = ["04/06","Iraq accepts terms of UN ceasefire, marking an end of the war."];		
 		var events2000 = ["03/20","Jamil Abdullah Al-Amin (H. Rap Brown), a former Black Panther, is captured after a gun battle in Atlanta, Georgia that leaves a sheriff's deputy dead.","03/27","The Phillips explosion of 2000 kills one and injures 71 in Pasadena, Texas.","05/24","Five people are shot and killed during a robbery at a Wendy's in Queens, New York.","08/03","The Republican National Convention in Philadelphia, Pennsylvania nominates Texas Governor George W. Bush for U.S. President and Dick Cheney for Vice President.","10/11","250 million US gallons (950,000 m3) of coal sludge spill in Martin County, Kentucky (considered a greater environmental disaster than the Exxon Valdez oil spill)."];
 		var eventsDefault = ["TBD","---","TBD","---","TBD","---","TBD","---","TBD","---"];
+		var yearText = document.getElementById("yearText");
 		var slider = document.getElementById("myRange");
 		var output = document.getElementById("demo");
 		output.innerHTML = slider.value;
 		updateData();
 		
-		var yearInput = document.getElement.ById("yearText").value;
-		yearPress.addEventListener('click',);
-		
 		function textInput() {
-			slider.value = yearInput;
-			output.innerHTML = slider.value
+			slider.value = parseInt(yearText.value);
+			output.innerHTML = slider.value;
 			updateData();
 		}
 		
@@ -646,11 +646,7 @@
 						return eventsDefault;
 					}
 			}
-				
-		slider.oninput = function() {
-			updateData();
-         }
-		 
+			
 		 function updateData() {
 		 	output.innerHTML = slider.value;
 		  		var element0 = document.getElementById("data0");
