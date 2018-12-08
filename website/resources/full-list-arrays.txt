@@ -1,79 +1,716 @@
+--1900
+"01/29","United States President William McKinley places Alaska under military rule."
+"01/29","The American League of Professional Baseball Clubs is organized in Philadelphia, Pennsylvania with 8 founding teams."
+"04/30","Hawaii becomes an official U.S. territory."
+"07/25","The Robert Charles Riots occur in New Orleans, Louisiana, United States."
+"09/08","The Galveston Hurricane makes landfall at Galveston, Texas, eventually killing 6,000–12,000 in the deadliest natural disaster in U.S. history."
+
+--1901
+"01/05", "  Typhoid fever breaks out in a Seattle jail, the first of two typhoid outbreaks in the USA during the year."
+"02/02", "Female Army Nurse Corps established as a permanent organization"
+ "03/02", " United States Congress passes the Platt amendment, limiting the autonomy of Cuba as a condition for the withdrawal of American troops" ,
+ "05/17" , "The U.S. stock market crashes for the first time."
+ "09/14" , " President McKinley assassinated, Vice President Roosevelt becomes the 26th President"
+
+--1902
+"02/01", "US Secretary of State Hay protests granting Russia exclusive privileges in China, on ground that it runs contrary to the 'open door' policy granting all nations equal rights there"
+"05/12" , "140,000 miners of anthracite coal in Pennsylvania go out on a strike called by the United Mine Workers after the owners have refused to recognize the UMW, negotiate or submit to arbitration "
+"05/20", "United States withdraws its troops from Cuba as the first Cuban president, Tomas Estrada Palma takes power"
+"09/07" , " US Helps Put Down Boxer Rebellion"
+ "09/19" , "Shiloh Baptist Church disaster: 119 people are killed during a stampede at the church"
+
+
+--1903
+"01/19", "The first west-east transatlantic radio broadcast is made from the United States to England "
+"02/11", "The Oxnard Strike of 1903 becomes the first time in U.S. history that a labor union is formed from members of different races."
+"03/14", "The Hay–Herrán Treaty, granting the United States the right to build the Panama Canal, is ratified by the United States Senate; later rejected."
+"09/27", "The Wreck of the Old 97 engine at Stillhouse Trestle near Danville, Virginia, which kills nine people"
+ "12/30", "A fire at the Iroquois Theater in Chicago kills 600."
+
+--1904
+"01/12", " Henry Ford sets a new automobile land speed record of 91.37 mph."
+"02/23","For $10 million, the United States gains control of the Panama Canal Zone."
+"02/07", " The Great Baltimore Fire in Baltimore, Maryland destroys over 1,500 buildings in 30 hours."
+"05/04", " U.S Army engineers being working on The Panama Canal"
+ "12/31", "New York City, the first New Year's Eve celebration is held in Times Square."
+
+--1905
+"03/17", " Franklin D. Roosevelt marries his fifth cousin Eleanor Roosevelt"
+"03/20", "Grover Shoe Factory disaster: A boiler explosion, building collapse and fire in Brockton, Massachusetts kills 58."
+"04/06", "The 1905 Chicago Teamsters' strike; 21 people die and 416 are injured in the violence "
+"05/10", "Snyder, Oklahoma tornado destroys much of Snyder, Oklahoma, killing at least 97"
+"09/11" , "Ninth Avenue Elevated train derails in Manhattan, killing 19 and injuring 48 people "
+
+--1906
+"01/08", " A landslide in Haverstraw, New York kills 21 people."
+"06/30", " The United States Congress passes the Meat Inspection Act and Pure Food and Drug Act."
+"09/22","Race riots in Atlanta, Georgia result in 27 people killed and the Black-owned business district severely damaged"
+"10/11", "The San Francisco public school board sparks a United States diplomatic crisis with Japan, by ordering Japanese students to be taught in racially segregated schools."
+"12/10", "U.S. President Theodore Roosevelt is awarded the Nobel Peace Prize for his role in negotiating peace in the Russo-Japanese War "
+
+--1907
+"07/21", "  The SS Columbia sinks after colliding with the lumber schooner San Pedro off Shelter Cove, California, U.S.A., resulting in 88 deaths."
+"10/24", "Federal Reserve System created after a financial crissis is averted when J.P Morgan, E.H. Harriman, James Stillman, Henry Clay Frick and Other Wall Street fianciers create a $25 million dollar pool to invest in the shares on the plungig New York Stock Exhange."
+"11/06", "Indian Territory and Oklahoma Territory become Oklahoma, which is admitted as the 46th U.S. state"
+"12/06", "Monongah Mining Disaster: A coal mine explosion kills 362 workers in Monongah, West Virginia"
+ "12/19", " An explosion in a coal mine in Jacobs Creek, Pennsylvania kills 239"
+
+--1908
+"01/13", " A fire at the Rhoads Opera House in Boyertown, Pennsylvania, kills 170 people. The tragedy is a catalyst for stricter fire safety laws nationwide."
+"02/18", " Japanese immigration to the United States is restricted under the Gentlemen's Agreement of 1907"
+"02/27", " A forty-sixth star is added to the United States flag representing the state of Oklahoma"
+"03/04", "The Collinwood School Fire, near Cleveland, Ohio, kills 174 people."
+"10/15", "The Metz Fire in Metz Township, Michigan; 37 people are killed, 134 families—about 700 people— are made homeless"
+
+--1909
+"01/01","Drilling begins on the Lakeview Gusher."
+"01/28", "U.S. troops leave Cuba after being there since the Spanish–American War"
+"02/12", "The National Association for the Advancement of Colored People (NAACP) is founded, commemorating the hundredth anniversary of Abraham Lincoln’s birth."
+"11/08", "Fire at Robert Morrison fibroid comb factory in New York City kills 9."
+"11/11", "The U.S. Navy founds a navy base in Pearl Harbor, Hawaii","11/13",
+
+--1910
+"02/08", "The Boy Scouts of America youth organization is incorporated by William D. Boyce"
+"06/19", "The first unofficial Father's Day is observed."
+"07/22", "A wireless telegraph sent from the S.S. Montrose results in the identification and later arrest and execution of murderer Dr. Hawley Crippen."
+"10/01"," Los Angeles Times bombing: A bomb explodes at the Los Angeles Times building, leaving 21 dead and several injured"
+"11/17", " Ralph Johnstone, a pilot for the Wright Exhibition Team, dies at Denver, Colorado after his machine breaks apart in mid air"
+
+--1911
+"03/25","The Triangle Shirtwaist Factory fire in New York City kills 146"
+"04/13","Mexican Revolution: Rebels take Agua Prieta on the Sonora–Arizona border;"
+"04/30", "Sparks from a burning hayshed ignite the Great Fire of 1911, destroying much of downtown Bangor, Maine."
+"05/30", " The main branch of the New York Public Library is officially opened."
+"06/16" ," A 772-gram stony meteorite strikes earth in Columbia County, Wisconsin, near the village of Kilbourn, damaging a barn"
+
+--1912
+"01/06","New Mexico is admitted as the 47th U.S. state"
+"02/14", " Arizona is admitted as the 48th U.S. state "
+"04/12", " The Girl Scouts of the USA are founded."
+"04/18","RMS Titanic sinks at 2:20 am, taking with her the lives of more than 1,500 people."
+"10/14","While campaigning in Milwaukee, Wisconsin, former President Theodore Roosevelt is shot by saloonkeeper John Schrank"
+
+--1913
+"02/01"," New York City's Grand Central Terminal, having been rebuilt, reopens as the world's largest train station"
+"03/03","The Woman Suffrage Parade of 1913 takes place in Washington, D.C. led by Inez Milholland on horseback."
+"03/25","Great Dayton Flood: Four days of rain in the Miami Valley flood the region and mark the worst natural disaster in Ohio's recorded history, killing over 360 people and destroying 20,000 homes, chiefly in Dayton."
+"06/15"," Battle of Bud Bagsak in the Philippines concludes with U.S. troops under General John J. Pershing taking Bug Bagsak from defending Moro rebels, killing at least 500."
+"11/07","The Great Lakes Storm of 1913 kills more than 250."
+
+--1914
+"04/09" , " United States occupation of Veracruz - Starting the war of Veracruz"
+"05/14,"," Woodrow Wilson signs a Mother's Day proclamation."
+"07/28" , "World War 1 Started"
+"08/01"," New York Stock Exchange closed due to war in Europe, where nearly all stock exchanges are already closed."
+"12/12","The New York Stock Exchange re-opened, having been closed since August 1, 1914, except for bond trading."
+
+--1915
+"04/25","The USS F-4 submarine sinks off Hawaii; 23 are killed"
+"05/07","The RMS Lusitania is sunk on passage from New York to Britain by a German U-boat, killing 1,198."
+"07/28" , "U. S. troops sent to Haiti"
+"08/05","Hurricane Two of the 1915 Atlantic hurricane season over Galveston and New Orleans leaves 275 dead."
+"11/27", " The KKK was revived"
+
+--1916
+"03/08","Mexican Revolution: Pancho Villa leads about 500 Mexican raiders in an attack against Columbus, New Mexico, killing 12 U.S. soldiers. A garrison of the U.S. 13th Cavalry Regiment fights back and drives them away."
+"07/22","In San Francisco, California, a bomb explodes on Market Street during a Preparedness Day parade, killing 10 injuring 40"
+"07/30","German agents cause the Black Tom explosion in Jersey City, New Jersey, an act of sabotage destroying an ammunition depot and killing at least seven people."
+"11/05","Everett massacre: An armed confrontation in Everett, Washington, between local authorities and members of the Industrial Workers of the World results in seven deaths."
+"12/05"," Petticoat Revolution in Umatilla, Oregon: 7 women successfully capture the mayorship and a majority of council seats."
+
+--1917
+"02/03","The United States breaks off diplomatic relations with Germany."
+"04/06", "An explosion in Chester, Pennsylvania kills 133."
+"05/26","A tornado strikes Mattoon, Illinois, causing devastation and killing 101 people."
+"07/01","A labor dispute ignites a race riot in East St. Louis, Illinois, which leaves 250 dead."
+"11/14","Women's suffrage in the United States: Women win the right to vote in New York State"
+
+--1918
+"03/19","The U.S. Congress establishes time zones and approves daylight saving time "
+"07/09","Great train wreck of 1918: In Nashville, Tennessee, an inbound local train collides with an outbound express, killing 101."
+"10/04","The T. A. Gillespie Company Shell Loading Plant explosion in New Jersey kills 100+, and destroys enough ammunition to supply the Western Front for 6 months."
+"10/25","The SS Princess Sophia sinks on Vanderbilt Reef near Juneau, Alaska; 353 people die in the greatest maritime disaster in the Pacific Northwest."
+"11/11","World War 1 ends"
+
+--1919
+"01/06","Theodore Roosevelt, the 26th President of the United States, dies in his sleep at the age of 60."
+"01/16","The 18th Amendment to the United States Constitution, authorizing Prohibition, goes into effect in the United States."
+"04/30","Several bombs are intercepted in the first wave of the 1919 United States anarchist bombings."
+"06/02","Eight mail bombs are sent to prominent figures as part of the 1919 United States anarchist bombings."
+"09/10","The Florida Keys Hurricane kills 600 in the Gulf of Mexico, Florida and Texas."
+
+
+--1920
+"01/02","The second of the Palmer Raids takes place with another 4,000 suspected communists and anarchists arrested and held without trial. These raids take place in several U.S. cities."
+"01/06","Prohibition in the United States begins with the Eighteenth Amendment to the Constitution coming into effect."
+"04/26","19th Amendment to US Constitution is passed, guaranteeing women's suffrage."
+"09/16","The Wall Street bombing: a bomb in a horse wagon explodes in front of the J. P. Morgan building in New York City – 38 dead, 400 injured"
+"11/02","The first national U.S. election in which women have the right to vote."
+
+--1921
+"05/21","Tulsa Race Riot: The official death toll is 39."
+"08/01","The United States formally ends World War I, declaring a peace with Germany."
+"08/11","Franklin D. Roosevelt's paralytic illness strikes while he is vacationing on Campobello Island; he is diagnosed with polio."
+"09/07"," In Atlantic City, New Jersey, the first Miss America Pageant is held."
+"12/13","In the Four Power Treaty on Insular Possessions, Japan, the United States, United Kingdom and France agree to recognize the status quo in the Pacific."
+
+--1922
+"02/07","Five Power Naval Disarmament Treaty signed between United States, Britain, Japan, France and Italy"
+"04/07","eapot Dome scandal: The United States Secretary of the Interior leases Teapot Dome oil reserves in Wyoming."
+"05/05"," A 20-ton meteorite lands near Blackstone, Virginia"
+"05/30"," In Washington, D.C., the Lincoln Memorial is dedicated."
+"10/03","Rebecca Latimer Felton of Georgia becomes the first female United States Senator"
+
+--1923
+"03/01","The USS Connecticut is decommissioned."
+"03/23","The governor of Oklahoma signs House Bill 197 with the Montgomery amendment outlawing the theory of evolution in public school textbooks purchased by the state, the first anti-Darwinian legislation passed in the U.S"
+"05/09","Southeastern Michigan receives a record 6 inches (15 cm) of snow after temperatures plummeted from 62 °F (17 °C) to 34 °F (1 °C) degrees between 13:00-18:00 on the previous day."
+"09/08", " Honda Point Disaster: Seven U.S. Navy destroyers run aground off the California coast."
+"10/16","Roy and Walt Disney found The Walt Disney Company."
+
+--1924
+"02/07"," Death penalty: The first state execution using gas in the United States takes place in Nevada."
+"03/08","The Castle Gate mine disaster kills 172 coal miners in Utah, United States."
+"09/09","The Hanapepe Massacre occurs on Kauai, Hawaii."
+"11/04","Nellie Tayloe Ross of Wyoming is elected as the first woman governor in the United States."
+"11/27", " In New York City the first Macy's Thanksgiving Day Parade is held."
+
+--1925
+"03/18"," The Tri-State Tornado rampages through Missouri, Illinois, and Indiana, killing 695 people and injuring 2,027. It hits the towns of Murphysboro, Illinois; Gorham, Illinois; Ellington, Missouri; and Griffin, Indiana. The storm's damage path was indicated at 378 km (235 mi)"
+"05/08","African American Tom Lee rescues 32 people from the M.E. Norman, a steamboat sinking in the Mississippi."
+"07/10","Scopes Trial: In Dayton, Tennessee, the so-called (Monkey Trial) begins with John T. Scopes, a young high school science teacher, accused of teaching evolution in violation of a Tennessee state law."
+"07/21","Scopes Trial: In Dayton, Tennessee, high school biology teacher John T. Scopes is found guilty of teaching evolution in class and fined $100."
+"09/03","The U.S. Navy dirigible Shenandoah breaks up in a squall line over Ohio en route to Scottfield, St. Louis; 14 crewmen are killed."
+
+--1926
+"04/12","United States Senate unseats Iowa Senator Smith W. Brookhart and seats Daniel F. Steck, after Brookhart had already served for over one year."
+"05/12","The United States Congress passes the Air Commerce Act, licensing pilots and planes."
+"07/12","A lightning strike destroys an ammunition depot in Dover, New Jersey."
+"09/11","Aloha Tower is officially dedicated at Honolulu Harbor in the Territory of Hawaii."
+"09/18"," Great Miami Hurricane: A strong hurricane devastates Miami, Florida, leaving over 100 dead and causing several hundred million dollars in damage."
+
+--1927
+"01/07","The first transatlantic telephone call is made from New York City to London."
+"04/22"," The Great Mississippi Flood of 1927 affects 700,000 people in the greatest national disaster in U.S. history at this time."
+"05/02","Buck v. Bell decided in the Supreme Court of the United States, permitting compulsory sterilization of people with intellectual disability."
+"11/14","The Pittsburgh Gasometer Explosion: Three Equitable Gas storage tanks in the North Side of Pittsburgh, Pennsylvania, explode, killing 26 people and causing damage estimated between contemporary totals of $4 million and $5 million."
+"12/17"," The U.S. submarine S-4 is accidentally rammed and sunk by the United States Coast Guard destroyer John Paulding off Provincetown, Massachusetts, killing everyone aboard after several unsuccessful attempts to raise the sub."
+
+--1928
+"01/6","U.S. murderer Ruth Snyder is executed at Ossining."
+"03/12","In California, the St. Francis Dam north of Los Angeles fails, killing 400."
+"06/17","Aviator Amelia Earhart starts her attempt to become the first woman to successfully cross the Atlantic Ocean. Wilmer Stultz was the pilot."
+"08/16"," Murderer Carl Panzram is arrested in Washington, D.C. after killing about 20 people."
+"12/21","The U.S. Congress approves the construction of Boulder Dam, later renamed Hoover Dam."
+
+--1929
+"01/09","The Seeing Eye is established with the mission to train dogs to assist the blind, in Nashville, Tennessee."
+"05/15","A leak and explosion of methyl chloride refrigerant in a Cleveland hospital kills one hundred and twenty-eight and becomes regarded as the catalyst for the development of chlorofluorocarbon refrigerants"
+"05/17"," Al Capone and his bodyguard are arrested for concealing deadly weapons."
+"10/24","Wall Street Crash of 1929: Three multi-digit percentage drops wipe out more than $30 billion from the New York Stock Exchange"
+"12/03"," Great Depression: U.S. President Herbert Hoover announces to the U.S. Congress that the worst effects of the recent stock market crash are behind the nation, and that the American people have regained faith in the economy."
+
+--1930
+"02/18","While studying photographs taken in January, Clyde Tombaugh confirms the existence of Pluto"
+"04/21","A fire in the Ohio Penitentiary near Columbus kills 320 people."
+"04/22","The United Kingdom, Japan and the United States sign the London Naval Treaty regulating submarine warfare and limiting shipbuilding."
+"06/09"," Chicago Tribune journalist Jake Lingle is shot in Chicago, Illinois. Newspapers promise $55,000 reward for information. Lingle is later found to have had contacts with organized crime."
+"12/02","Great Depression: U.S. President Herbert Hoover goes before Congress and asks for a US $150 million public works program to help generate jobs and stimulate the economy."
+
+
+--1931
+"01/01","The American Federation of Labor's National Committee for Modification of the Volstead Act is formed to work for the repeal of Prohibition in the United States."
+"03/17","Nevada legalizes gambling."
+"04/15","The Castellemmarese War ends with the assassination of Joe Masseria, briefly leaving Salvatore Maranzano as capo di tutti i capi  and undisputed ruler of the American Mafia. Maranzano is himself assassinated less than 6 months later, leading to the establishment of the Five Families."
+"04/22","The U.S., Austria, United Kingdom, Denmark, Germany, Italy and Sweden recognize the Spanish Republic."
+"06/19","In an attempt to stop the banking crisis in Central Europe from causing a worldwide financial meltdown, President Herbert Hoover issues the Hoover Moratorium."
+
+--1932
+"01/12","Hattie W. Caraway becomes the first woman elected to the United States Senate."
+"05/20","Amelia Earhart flies from the US to Derry, Northern Ireland in 14 hours 54 minutes."
+"07/28","U.S. President Herbert Hoover orders the U.S. Army to forcibly evict the Bonus Army of World War I veterans gathered in Washington, D.C.Troops disperse the last of the Bonus Army the next day."
+"07/30","The 1932 Summer Olympics open in Los Angeles."
+"11/24","In Washington, D.C., the FBI Scientific Crime Detection Laboratory officially opens."
+
+--1933
+"01/05","Construction of the Golden Gate Bridge begins in San Francisco Bay."
+"02/15"," In Miami, Florida, Giuseppe Zangara attempts to assassinate President-elect Franklin D. Roosevelt, but instead fatally wounds Chicago Mayor Anton J. Cermak."
+"02/17","The Blaine Act ends Prohibition in the United States."
+"04/04","The U.S. airship Akron crashes off the coast of New Jersey, leaving 73 dead"
+"10/10","A United Airlines Boeing 247 is destroyed near Chesterton, Indiana by a bomb. This is the first proven case of air sabotage in commercial airline history."
+
+--1934
+"01/27"," Albert Einstein visits the White House."
+"03/13","John Dillinger and his gang rob the First National Bank in Mason City, Iowa."
+"04/01"," Clyde Barrow and Bonnie Parker kill 2 young highway patrolmen near Grapevine, Texas."
+"09/08","Off the New Jersey coast, a fire aboard the passenger liner Morro Castle kills 134 people."
+"12/29","apan renounces the Washington Naval Treaty of 1922 and the London Naval Treaty of 1930."
+
+--1935
+"01/11"," Amelia Earhart becomes the first person to fly solo from Hawaii to New York."
+"02/22"," Airplanes are banned from flying over the White House."
+"08/15","Humorist Will Rogers and aviator Wiley Post are killed when Post's plane crashes shortly after takeoff near Barrow, Alaska."
+"09/02"," Labor Day Hurricane of 1935: The strongest hurricane ever to strike the United States makes landfall in the Upper Florida Keys killing 423. It is rated as a Category 5 storm with 185 mph winds."
+"12/17","Douglas DST, prototype of the Douglas DC-3 airliner, first flies. More than 16,000 of the model will eventually be produced."
+
+--1936
+"03/01","German American Bund formed in Buffalo, New York, in support of Nazi Germany to succeed the Friends of New Germany, with German-born American citizen Fritz Julius Kuhn elected as its first leader."
+"03/01"," Construction of Hoover Dam is completed."
+"04/06","Two tornadoes strike Gainesville, Georgia. The smaller tornado hits north Gainesville, the stronger tornado the west side of town. 203 die and 1,600 are injured in the 5th deadliest tornado in U.S. history."
+"06/01","A major heat wave strikes North America; high temperature records are set and thousands die."
+"08/03","African-American athlete Jesse Owens wins the 100-meter dash at the Berlin Olympics."
+
+--1937
+"01/31","The Ohio River floods."
+"03/18","In the worst school disaster in American history in terms of lives lost, the New London School in New London, Texas suffers a catastrophic natural gas explosion, killing in excess of 295 students and teachers."
+"05/27"," In California, the Golden Gate Bridge opens to pedestrian traffic, creating a vital link between San Francisco and Marin County."
+"10/05","Roosevelt gives his famous Quarantine Speech in Chicago."
+"12/12","Japanese bombers sink the American gunboat USS Panay."
+
+--1938
+"06/24","A 450-metric-ton meteorite explodes about 12 miles above the earth near Chicora, Pennsylvania."
+"09/21","The New England Hurricane of 1938 strikes Long Island and southern New England, killing over 300 along the Rhode Island shoreline and approximately 600 in total."
+"10/16","Winston Churchill, in a broadcast address to the United States, condemns the Munich Agreement as a defeat and calls upon America and western Europe to prepare for armed resistance against Adolf Hitler."
+"10/31","Great Depression: In an effort to try restore investor confidence, the New York Stock Exchange unveils a 15-point program intended to upgrade protection for the investing public"
+"12/3","President Franklin Roosevelt agrees to lend $25 million to Chiang Kai-shek, cementing the Sino-American relationship and angering the Japanese government."
+
+--1940
+"04/01","April Fools' Day is also the census date for the 16th U.S. Census."
+"04/07","Booker T. Washington becomes the first African American to be depicted on a United States postage stamp"
+"04/23","A fire at the Rhythm Night Club in Natchez, Mississippi kills 209."
+"09/26","WWII: The United States imposes a total embargo on all scrap metal shipments to Japan."
+"12/17","President Franklin D. Roosevelt, at his regular press conference, first sets forth the outline of his plan to send aid to Great Britain that will become known as Lend-Lease."
+
+--1939
+"01/05","Amelia Earhart is officially declared dead after her 1937 disappearance."
+"04/09","African-American singer Marian Anderson performs before 75,000 people at the Lincoln Memorial in Washington, D.C., after having been denied the use both of Constitution Hall by the Daughters of the American Revolution, and of a public high school by the federally controlled District of Columbia. First Lady Eleanor Roosevelt resigns from the DAR because of their decision."
+"08/02","Albert Einstein writes to President Franklin Roosevelt about developing the atomic bomb using uranium. This leads to the creation of the Manhattan Project."
+"09/05","World War II: The United States declares its neutrality in the war"
+"10/11"," U.S. President Franklin D. Roosevelt is presented a letter signed by Albert Einstein, urging the United States to rapidly develop the atomic bomb."
+
+--1940
+"04/01","April Fools' Day is also the census date for the 16th U.S. Census."
+"04/07","Booker T. Washington becomes the first African American to be depicted on a United States postage stamp"
+"04/23","A fire at the Rhythm Night Club in Natchez, Mississippi kills 209."
+"09/26","WWII: The United States imposes a total embargo on all scrap metal shipments to Japan."
+"12/17","President Franklin D. Roosevelt, at his regular press conference, first sets forth the outline of his plan to send aid to Great Britain that will become known as Lend-Lease."
 
 --1941
-"12/07" , " Japan attacks Hawaii, Guam, and the Philippines."
---1943
-"06/20" , " Detroit Race Riots"
+"01/27","U.S. Ambassador to Japan Joseph Grew passes on to Washington, D.C. a rumor overheard at a diplomatic reception about a planned surprise attack upon Pearl Harbor, Hawaii."
+"04/09","The U.S. acquires full military defense rights in Greenland."
+"06/31","All German and Italian consulates in the United States are ordered closed and their staffs to leave the country by July 10."
+"09/04","The USS Greer becomes the first United States Navy ship fired upon by a German submarine in the war, even though the United States is a neutral power. Tension heightens between the nations as a result."
+"12/08","World War II: Franklin Roosevelt gives his Infamy Speech. Within an hour the United States officially declares war on Japan after Japan bombed Pearl Harbor."
 
+--1942
+"01/10","The last German air-raid on the English port of Liverpool destroys the home of William Patrick Hitler, Adolf Hitler's nephew. After his house is destroyed, William Hitler goes to the United States and joins the navy to fight against his uncle."
+"01/25","Thailand declares war on the United States and United Kingdom."
+"02/25","Over 1,400 AA shells are fired at an unidentified, slow-moving object in the skies over Los Angeles. The appearance of the object triggers an immediate wartime blackout over most of Southern California, with thousands of air raid wardens being deployed throughout the city. In total there are 6 deaths. Despite the several hour barrage no planes are downed."
+"11/08"," United States and United Kingdom forces land in French North Africa."
+"11/26","Casablanca premieres at the Hollywood Theater in New York City."
+
+--1943
+"01/15","The world's largest office building, The Pentagon, is dedicated in Arlington, Virginia."
+"02/08","Battle of Guadalcanal: United States forces defeat Japanese troops."
+"02/27","Smith Mine #3 in Bearcreek, Montana, explodes, killing 74 men."
+"07/24","Operation Gomorrah begins: British and Canadian airplanes bomb Hamburg by night, those of the Americans by day. By the end of the operation in November, 9,000 tons of explosives will have killed more than 30,000 people and destroyed 280,000 buildings."
+"12/04 ","The Great Depression officially ends in the United States: With unemployment figures falling fast due to World War II-related employment, U.S. President Franklin D. Roosevelt closes the Works Progress Administration."
 
 --1944
-"1/20" , "F. Roosevelt's fourth inauguration" 
-"06/06" , " Allies invade France on D-Day."
---1945
+"1/20" , "F. Roosevelt's fourth inauguration"
+"06/04" , " A hunter-killer group of the United States Navy captures the German submarine U-505, marking the first time a U.S. Navy vessel has captured an enemy vessel at sea since the 19th century."
+"06/06","D-Day, when some 156,000 American, British and Canadian forces landed on five beaches along a 50-mile stretch of the heavily fortified coast of France's Normandy region"
+"08/20","American forces successfully defeat Nazi forces at Chambois, closing the Falaise Gap."
+"11/07","A passenger train derails in Aguadilla, Puerto Rico, due to excessive speed on a declining hill; 16 are killed, 50 injured."
 
-"12/08" , " U.S declares war on Japan." 
+--1945
+"1/30","121 American soldiers and 800 Filipino guerrillas free 813 American POWs from the Japanese-held camp at Cabanatuan City, Philippines."
+"04/04","American troops liberate their first Nazi concentration camp, Ohrdruf death camp in Germany."
+"04/12"," Harry S. Truman becomes President upon the death of Franklin D. Roosevelt"
 "08/06" , "U.S. drops atomic bomb on Hiroshima, Japan."
 "08/09", "U.S. drops atomic bomb on Nagasaki, Japan."
 
+--1946
+"04/01","8.6 Mw Aleutian Islands earthquake affected Alaska with a maximum Mercalli intensity of VI (Strong), causing a destructive basin wide tsunami, leaving 165–173 dead."
+"07/04","The Philippines is granted independence by the United States."
+"08/01"," President Harry Truman signs the Atomic Energy Act of 1946, which establishes the United States Atomic Energy Commission."
+"11/12","In Chicago, a branch of the Exchange National Bank (now part of the LaSalle Bank) opens the first 10 drive-up teller windows."
+"11/27"," Indian Prime Minister Jawaharlal Nehru appeals to the United States and the Soviet Union to end nuclear testing and to start nuclear disarmament, stating that such an action would save humanity from the ultimate disaster."
+
+--1947
+"02/20","An explosion at the O'Connor Electro-Plating Company in Los Angeles, California, leaves 17 dead, 100 buildings damaged, and a 22-foot-deep (6.7 m) crater in the ground."
+"04/01","Jackie Robinson, the first African American baseball professional since the 1880s, signs a contract with the Brooklyn Dodgers."
+"05/22","In an effort to fight the spread of Communism, President Harry S. Truman signs an Act of Congress that implements the Truman Doctrine. This Act grants $400 million in military and economic aid to Turkey and Greece",
+"06/21"," Seaman Harold Dahl claims to have seen six UFOs near Maury Island in Puget Sound, Washington. On the next morning, Dahl reports the first modern so-called Men in Black encounter."
+"07/26","Cold War: U.S. President Harry S. Truman signs the National Security Act of 1947 into law, creating the Central Intelligence Agency, the Department of Defense, the Joint Chiefs of Staff, and the National Security Council."
+
+--1948
+"01/29","Plane crash at Los Gatos Creek, California kills 4 US citizens and 28 deportees."
+"02/01","The Soviet Union begins to jam Voice of America broadcasts."
+"06/11","The first monkey astronaut, Albert I, is launched into space from White Sands, New Mexico."
+"06/12","Women in the Air Force (WAF) created."
+"07/26","U.S. President Truman signs Executive Order 9981, ending racial segregation in the United States Armed Forces."
+
+--1949
+"04/04"," The North Atlantic Treaty is signed in Washington, D.C., creating the NATO defense alliance."
+"06/08"," Celebrities including Helen Keller, Dorothy Parker, Danny Kaye, Fredric March, John Garfield, Paul Muni and Edward G. Robinson are named in an FBI report as Communist Party members."
+"06/19","Glenn Dunaway wins the inaugural NASCAR race at Charlotte Speedway, a 3/4 mile oval in Charlotte, North Carolina, but is disqualified due to illegal springs. Jim Roper is declared the official winner."
+"06/29","Last of the U.S. troops withdraw from South Korea."
+"09/15"," Housing Act of 1949 is enacted."
+
+--1950
+"01/17","11 thieves steal more than $2,000,000 from an armored car in Boston, Massachusetts."
+"05/01"," First African American winner of a Pulitzer Prize: Gwendolyn Brooks wins the Pulitzer Prize for Poetry: for her 1949 volume Annie Allen."
+"06/22","The Report of Communist Influence in Radio and Television is published."
+"06/27","U.S. President Harry S. Truman orders American military forces to aid in the defense of South Korea."
+"08/05","A bomb-laden B-29 Superfortress crashes into a residential area in California; seventeen are killed and sixty-eight injured."
 
 --1951
-"11/01" , "First hydrogen bomb is detonated by the U.S. on Eniwetok, an atoll in the Marshall Islands." 
+"01/27","Nuclear testing at the Nevada Test Site begins with a 1-kiloton bomb dropped on Frenchman Flat, northwest of Las Vegas."
+"02/06","Nuclear testing at the Nevada Test Site begins with a 1-kiloton bomb dropped on Frenchman Flat, northwest of Las Vegas."
+"02/27","The Twenty-second Amendment to the United States Constitution, limiting Presidents to two terms, is ratified."
+"09/08","In San Francisco, 48 nations sign a peace treaty with Japan to end the Pacific War formally."
+"10/24","U.S. President Harry Truman declares an official end to war with Germany."
+
+--1952
+"02/06","A mechanical heart is used for the first time in a human patient."
+"03/21","Tornadoes ravage the lower Mississippi River Valley, leaving 208 dead, through March 22."
+"06/19","United States Army Special Forces is created."
+"11/20"," The first official passenger flight over the North Pole is made from Los Angeles to Copenhagen."
+"12/20","The crash of a U.S. Air Force C-124 Globemaster at Moses Lake, Washington kills 86 servicemen."
+
+--1953
+"01/07","President Harry S. Truman announces the United States has developed a hydrogen bomb."
+"06/19","The U.S. executes Julius and Ethel Rosenberg for spying for the USSR."
+"08/19"," The CIA helps to overthrow the government ofs Mohammed Mossadegh in Iran, and retain Shah Mohammad Reza Pahlavi on the throne"
+"10/30"," U.S. President Dwight D. Eisenhower formally approves the top secret document of the United States National Security Council NSC 162/2, which "
+"12/08"," U.S. president Dwight D. Eisenhower delivers his Atoms for Peace address to the UN General Assembly in New York City."
+
+--1954
+"01/21"," USS Nautilus is the first nuclear powered submarine. Launched in Groton, Connecticut, by First Lady of the United States Mamie Eisenhower."
+"03/01"," U.S. officials announce that a hydrogen bomb test has been conducted on Bikini Atoll in the Pacific Ocean."
+"05/17"," Brown v. Board of Education (347 US 483 1954): The United States Supreme Court rules that segregated schools are unconstitutional."
+"11/30","In Sylacauga, Alabama, a 4 kg piece of the Hodges Meteorite crashes through the roof of a house and badly bruises a napping woman, in the first documented case of an object from outer space hitting a person."
+"12/23","The first successful kidney transplant is performed by Joseph E. Murray, MD in Boston from one identical twin to his brother. Murray would later share the 1990 Nobel Prize in Physiology or Medicine"
+
+--1955
+"01/22"," The Pentagon announces a plan to develop intercontinental ballistic missiles (ICBMs) armed with nuclear weapons."
+"02/12"," President Dwight D. Eisenhower sends the first U.S. advisors to South Vietnam."
+"08/19"," Hurricane Diane hits the northeast, killing 200 and causing over $1 billion in damage."
+"11/01","A time bomb explodes in the cargo hold of United Airlines Flight 629, a Douglas DC-6B airliner flying above Longmont, Colorado, killing all 39 passengers and 5 crew members on board."
+"12/05","Montgomery Improvement Association is formed in Montgomery, Alabama by Dr. Martin Luther King, Jr. and other Black ministers to coordinate a Black boycott of city buses"
+
+--1956
+"04/14","Videotape is first demonstrated at the 1956 NARTB convention in Chicago by Ampex. It is the demonstration of the first practical and commercially successful videotape format known as 2 Quadruplex."
+"04/25","South of Nantucket Island, the Italian ocean liner SS Andrea Doria sinks after colliding with the Swedish ship MS Stockholm in heavy fog, killing 51 people."
+"10/17","13-year-old Bobby Fischer beats GM Donald Byrne in the NY Rosenwald chess tournament."
+"11/13"," Browder v. Gayle: The United States Supreme Court declares Alabama and Montgomery, Alabama laws requiring segregated buses illegal, thus ending the Montgomery bus boycott."
+"12/31","Bob Barker makes his TV debut as host of the game show Truth or Consequences."
+
+--1957
+"01/22","New York City Mad Bomber, George Metesky, is arrested in Waterbury, Connecticut, and charged with planting more than 30 bombs."
+"06/27","Hurricane Audrey demolishes Cameron, Louisiana, killing 400 people."
+"09/04","Governor Orville Faubus of Arkansas calls out the National Guard of the United States to prevent the Little Rock Nine African American students from enrolling in Little Rock Central High School."
+"10/21"," The U.S. military sustains its first combat fatality in Vietnam, Army Capt. Hank Cramer of the 1st Special Forces Group."
+"11/07","In the United States, the Gaither Report calls for more American missiles and fallout shelters."
+
+--1958
+"03/11"," Mars Bluff B-47 nuclear weapon loss incident: A U.S. B-47 bomber accidentally drops an atom bomb on Mars Bluff, South Carolina. Its conventional explosives destroy a house and injure several people, but no nuclear fission occurs."
+"04/21","United Airlines DC-7 and U.S. Air Force F-100 Super Sabre fighter jet collide near Las Vegas, Nevada, killing all 49 aboard the two aircraft."
+"10/01","NASA starts operations and replaces the National Advisory Committee for Aeronautics."
+"10/11","Pioneer 1, the second and most successful of the three-project Able space probes, becomes the first spacecraft launched by the newly formed NASA."
+"12/19"," Message from President Dwight D. Eisenhower is broadcast from SCORE, the world's first communications satellite, launched by the U.S. the previous day."
+
+--1959
+"01/03","Alaska is admitted as the 49th U.S. state "
+"04/09","NASA announces its selection of the Mercury Seven, seven military pilots to become the first U.S. astronauts."
+"07/24","At the opening of the American National Exhibition in Moscow, U.S. Vice President Richard Nixon and USSR Premier Nikita Khrushchev have a kitchen debate."
+"08/07","Roseburg Oregon Blast kills 14 and causes $12 million worth of damage."
+"08/21"," Hawaii is admitted as the 50th and last U.S. state "
+
+--1960
+"01/19","Treaty of Mutual Cooperation and Security between the United States and Japan is signed in Washington, D.C"
+"03/06"," Vietnam War: The United States announces that 3,500 American soldiers will be sent to Vietnam."
+"04/01","The United States launches the first weather satellite, TIROS-1."
+"08/06"," In response to a United States embargo against Cuba, Fidel Castro nationalizes American and foreign-owned property in the nation."
+"12/02","U.S. President Dwight D. Eisenhower authorizes the use of $1 million for the relief and resettlement of Cuban refugees, who have been arriving in Florida at the rate of 1,000 a week."
+
+--1961
+"01/03","At the National Reactor Testing Station near Idaho Falls, Idaho, atomic reactor SL-1 explodes, killing 3 military technicians."
+"01/24","A U.S. B-52 Stratofortress, with two nuclear bombs, crashes near Goldsboro, North Carolina."
+"02/15","President Kennedy warns the Soviet Union to avoid interfering with the United Nations pacification of the Congo"
+"05/14"," American civil rights movement: A Freedom Riders bus is fire-bombed near Anniston, Alabama and the civil rights protestors are beaten by an angry mob of Ku Klux Klan members."
+"05/21","American civil rights movement: Alabama Governor John Patterson declares martial law in an attempt to restore order after race riots break out."
 
 --1962
-"02/20" , "Lt. Col. John Glenn becomes first U.S. astronaut to orbit Earth." 
-
-"10/22-11/20" , " Cuban Missile Crisis: President Kennedy denounces Soviet Union for secretly installing missile bases on Cuba and initiates a naval blockade of the island."
+01/04","New York City introduces a subway train that operates without a crew on board."
+"04/14"," A Cuban military tribunal convicts 1,179 Bay of Pigs attackers."
+"10/12","Columbus Day Storm strikes the U.S. Pacific Northwest with wind gusts up to 170 mph ; 46 are killed, 11 billion board feet of timber is blown down, with $230 million U.S. in damages."
+"10/14","a U-2 flight over Cuba takes photos of Soviet nuclear weapons being installed. A stand-off then ensues the next day between the United States and the Soviet Union, threatening the world with nuclear war."
+"11/20","In response to the Soviet Union agreeing to remove its missiles from Cuba, U.S. President John F. Kennedy ends the quarantine of the Caribbean nation."
 
 --1963
-"08/28" , " Rev. Martin Luther King, Jr., delivers his “I Have a Dream” speech before a crowd of 200,000 during the civil rights march on Washington, DC."
-"11/22" , " President Kennedy is assassinated in Dallas, Tex."
+"04/20"," Martin Luther King, Jr. posts bail and begins to plan more demonstrations (the Children’s Crusade)"
+"06/11","President John F. Kennedy delivers a historic Civil Rights Address, in which he promises a Civil Rights Bill, and asks for the kind of equality of treatment that we would want for ourselves."
+"08/05","The United States, United Kingdom, and Soviet Union sign a nuclear test ban treaty."
+"08/28","Martin Luther King, Jr. delivers his 'I Have a Dream' speech on the steps of the Lincoln Memorial to an audience of at least 250,000, during the March on Washington for Jobs and Freedom."
+"11/22"," John F. Kennedy assassination: In Dallas, President John F. Kennedy is shot to death, Texas Governor John B. Connally is seriously wounded, and Vice President Lyndon B. Johnson becomes the 36th President."
 
---1968 
-"04/04" , " Rev. Martin Luther King, Jr., is assassinated in Memphis, Tenn."
-"06/06" , " Sen. Robert F. Kennedy is assassinated in Los Angeles, Calif." 
+--1964
+"02/06","Cuba cuts off the normal water supply to the United States Guantanamo Bay Naval Base, in reprisal for the U.S. seizure 4 days earlier of 4 Cuban fishing boats off the coast of Florida."
+"03/26","Malcolm X and Martin Luther King, Jr. at news conference. U.S. Defense Secretary Robert McNamara delivers an address that reiterates American determination to give South Vietnam increased military and economic aid, in its war against the Communist insurgency."
+"04/20","U.S. President Lyndon Johnson in New York, and Soviet Premier Nikita Khrushchev in Moscow, simultaneously announce plans to cut back production of materials for making nuclear weapons."
+"05/07"," Pacific Air Lines Flight 773 crashes near San Ramon, California, killing all 44 aboard; the FBI later reports that a cockpit recorder tape indicates that the pilot and co-pilot had been shot by a suicidal passenger."
+"12/10","Martin Luther King, Jr. is awarded the Nobel Peace Prize in Oslo, Norway."
 
---1969 
-"07/20" , "Astronauts Neil Armstrong and Edwin Aldrin, Jr., become the first men to land on the Moon." 
+--1965
+"02/20"," Ranger 8 crashes into the Moon, after a successful mission of photographing possible landing sites for the Apollo program astronauts."
+"02/21"," Malcolm X is assassinated in Manhattan."
+"06/16","A planned anti-war protest at The Pentagon becomes a teach-in, with demonstrators distributing 50,000 leaflets in and around the building."
+"08/06","U.S. President Lyndon B. Johnson signs the Voting Rights Act of 1965 into law, outlawing literacy tests and other discriminatory voting practices that have been responsible for widespread disfranchisement of African Americans."
+"10/03","U.S. President Lyndon B. Johnson signs an immigration bill which abolishes quotas based on national origin."
+
+--1966
+"01/03","The first Acid Test is conducted at The Fillmore, San Francisco."
+"02/28"," U.S. astronauts Charles Bassett and Elliot See are killed in a plane crash in St. Louis, Missouri."
+"06/08","An XB-70 Valkyrie prototype is destroyed in a mid-air collision with a F-104 Starfighter chase plane during a photo shoot. NASA pilot Joseph A. Walker and USAF test pilot Carl Cross are both killed."
+"08/01","Sniper Charles Whitman kills 13 people and wounds 31 from atop the University of Texas at Austin Main Building tower, after earlier killing his wife and mother. "
+"12/15","Walt Disney dies while producing The Jungle Book, the last animated feature under his personal supervision."
+
+--1967
+"01/27","Apollo 1: U.S. astronauts Gus Grissom, Ed White, and Roger Chaffee are killed when fire breaks out in their Apollo spacecraft during a launch pad test.The United States, Soviet Union and United Kingdom sign the Outer Space Treaty."
+"03/09","Joseph Stalin's daughter, Svetlana Alliluyeva, defects to the USA via the U.S. Embassy in New Delhi."
+"06/23","U.S. President Lyndon B. Johnson meets with Soviet Premier Alexei Kosygin in Glassboro, New Jersey, for the 3-day Glassboro Summit Conference. Johnson travels to Los Angeles for a dinner at the Century Plaza Hotel where earlier in the day thousands of war protesters clashed with L.A. police."
+"12/04","U.S. and South Vietnamese forces engage Viet Cong troops in the Mekong Delta",
+"12/07","U.S. Public Health Service Studies potential ray leakage from color TVs."
+
+--1968
+"01/23","North Korea seizes the USS Pueblo, claiming the ship violated its territorial waters while spying."
+"04/04","Martin Luther King Jr. is shot dead at the Lorraine Motel in Memphis, Tennessee. Riots erupt in major American cities, lasting for several days afterwards."
+"05/22","The U.S. nuclear-powered submarine Scorpion sinks with 99 men aboard, 400 miles southwest of the Azores."
+"11/26","United States Air Force First Lieutenant and Bell UH-1F helicopter pilot James P. Fleming rescues an Army Special Forces unit pinned down by Viet Cong fire, earning a Medal of Honor for his bravery."
+"12/24","Apollo Program: U.S. spacecraft Apollo 8 enters orbit around the Moon. Astronauts Frank Borman, Jim Lovell and William A. Anders become the first humans to see the far side of the Moon and planet Earth as a whole. The crew also reads from Genesis."
+
+--1969
+"01/14"," An explosion aboard aircraft carrier USS Enterprise near Hawaii kills 27 and injures 314"
+"01/28","A blowout on Union Oil's Platform A in the Dos Cuadras Offshore Oil Field spills 80,000 to 100,000 barrels of crude oil into a channel and onto the beaches of Santa Barbara County in Southern California; on February 5 the oil spill closes Santa Barbara's harbor. The incident inspires Wisconsin Senator Gaylord Nelson to organize the first Earth Day in 1970."
+"06/08","U.S. President Richard Nixon and South Vietnamese President Nguyễn Văn Thiệu meet at Midway Island. Nixon announces that 25,000 U.S. troops will be withdrawn by September."
+"07/04","The Zodiac Killer attacks 19 year old Michael Mageau and kills 22 year old Darlene Ferrin in Vallejo, California"
+"07/20","The Lunar Module Eagle lands on the lunar surface. The world watches in awe as Neil Armstrong takes his historic first steps on the Moon."
 
 --1970
-"05/01" , "U.S. troops invade Cambodia." 
+"03/06","A bomb constructed by members of the Weathermen and meant to be planted at a military dance in New Jersey explodes, killing 3 members of the organization."
+"03/18"," United States Postal Service workers in New York City go on strike; the strike spreads to the state of California and the cities of Akron, Ohio, Philadelphia, Chicago, Boston, and Denver; 210,000 out of 750,000 U.S. postal employees walk out. Nixon assigns military units to New York City post offices. The strike lasts 2 weeks."
+"10/02","The Wichita State University football team's (Gold) plane crashes in Colorado, killing most of the players. They were on their way (along with administrators and fans) to a game with Utah State University."
+"11/14","Southern Airlines Flight 932 crashes in Wayne County, West Virginia; all 75 on board, including 37 players and 5 coaches from the Marshall University football team, are killed."
+"12/02","United States Environmental Protection Agency begins operations."
+
+--1971
+"02/11","The US, UK, USSR and others sign the Seabed Treaty, outlawing nuclear weapons on the ocean floor.The US, UK, USSR and others sign the Seabed Treaty, outlawing nuclear weapons on the ocean floor."
+"02/20","Mississippi Delta tornado outbreak: 123 dead and more than 1,592 injured."
+"03/29","U.S. Army Lieutenant William Calley is found guilty of 22 murders in the My Lai massacre and sentenced to life in prison"
+"04/09","Charles Manson is sentenced to death; in 1972, the sentence for all California Death Row inmates is commuted to life imprisonment."
+"09/09","Attica Prison riots: – A revolt breaks out at the maximum-security prison in Attica, New York. In the end, state police and the United States National Guard storm the facility; 42 are killed, 10 of them hostages.","12/11","An explosion in a water tunnel beneath Lake Huron in Port Huron, Michigan, kills 22."
+
+--1972
+"01/05","President Richard Nixon orders the development of a space shuttle program"
+"02/18"," California Supreme Court voids the state's death penalty, commuting all death sentences to life in prison."
+"05/15","Okinawa is returned to Japan after 27 years of United States Military occupation."
+"06/23","President Richard M. Nixon and White House chief of staff H. R. Haldeman are taped talking about using the C.I.A. to obstruct the F.B.I.'s investigation into the Watergate break-ins."
+"12/29"," Eastern Air Lines Flight 401 crashes into the Everglades in Florida, killing 101 of 176 on board."
+
+--1973
+"04/03","The first handheld cellular phone call is made by Martin Cooper in New York City."
+"04/30","President Richard Nixon announces that White House Counsel John Dean has been fired and that Attorney General Richard Kleindienst has resigned along with staffers H. R. Haldeman and John Ehrlichman."
+"07/05"," BLEVE (Boiling Liquid Expanding Vapor Explosion) in Kingman, Arizona, following a fire that broke out as propane was being transferred from a railroad car to a storage tank, kills 11 firefighters. This explosion has become a classic incident, studied in fire department training programs worldwide."
+"11/21","President Richard Nixon's attorney, J. Fred Buzhardt, reveals the existence of an 18½-minute gap in one of the White House tape recordings related to Watergate."
+"12/28","Endangered Species Act is passed in the United States."
+
+--1974
+"02/22","Samuel Byck attempts to hijack an airplane with the intent to crash it into the White House and assassinate President Nixon. He commits suicide when police stormed the plane."
+"05/17","Los Angeles police raid Symbionese Liberation Army headquarters, killing 6 members, including Camilla Hall."
+"08/05","Watergate scandal: The (smoking gun) tape of June 23, 1972, is revealed, in which President Richard Nixon and White House Chief of Staff H.R. Haldeman discuss using the Central Intelligence Agency to block a Federal Bureau of Investigation inquiry into Watergate. Nixon's support in Congress collapses."
+"11/20","United States Department of Justice files its final anti-trust suit against AT&T. This suit later leads to the breakup of AT&T and the Bell System."
+"12/04","Pioneer 11 probe passes Jupiter and captures famous images of the Great Red Spot."
+
+--1975
+"01/01","Watergate scandal: John N. Mitchell, H. R. Haldeman and John Ehrlichman are found guilty of the Watergate cover-up."
+"04/04"," The first military Operation Babylift flight, C5A 80218, crashes 27 minutes after takeoff, killing 138 on board; 176 survive the crash."
+"04/04","Bill Gates founds Microsoft in Albuquerque, New Mexico.",
+"09/22","President Gerald Ford survives a second assassination attempt, this time by Sara Jane Moore in San Francisco."
+"12/29"," A bomb explosion at LaGuardia Airport kills 11."
+
+--1976
+"01/27","United States vetoes a United Nations resolution that calls for an independent Palestinian state."
+"07/20"," Viking 1 lander successfully lands on Mars, taking the first close-up color photos of the planet's surface."
+"08/18"," At Panmunjom, North Korea, 2 United States soldiers are killed while trying to chop down part of a tree in the Korean Demilitarized Zone which had obscured their view."
+"09/06"," Soviet Air Force pilot Lt. Viktor Belenko lands a MiG-25 jet fighter at Hakodate, on the island of Hokkaidō in Japan, and requests political asylum from the United States."
+"11/26","Microsoft is officially registered with the Office of the Secretary of the State of New Mexico."
+
+--1977
+"04/21"," Residents of Dover, Massachusetts report sightings of the so-called Dover Demon."
+"05/28","Beverly Hills Supper Club in Southgate, Kentucky is engulfed in fire, killing 165 inside."
+"09/07","Treaties between Panama and the United States on the status of the Panama Canal are signed. The U.S. agrees to transfer control of the canal to Panama at the end of the 20th century."
+"11/06","The Kelly Barnes Dam, located above Toccoa Falls Bible College near Toccoa, Georgia, fails, killing 39."
+"12/01","Lockheed's top-secret stealth aircraft project, designated Have Blue, precursor to the U.S. F-117A Nighthawk, makes its first flight."
+
+--1978
+"01/25","The Great Blizzard of 1978 strikes the Ohio Valley and the Great Lakes, causing 51 deaths in Ohio."
+"02/15","Serial killer Ted Bundy is captured in Pensacola, Florida."
+"03/28","Stump v. Sparkman (435 U.S. 349): The Supreme Court of the United States hands down a 5–3 decision in a controversial case involving involuntary sterilization and judicial immunity."
+"09/25","PSA Flight 182, a Boeing 727, collides with a small private airplane and crashes in San Diego, California; 144 are killed."
+"12/15","Cleveland, Ohio becomes the first major American city to go into default since the Great Depression"
+
+--1979
+"02/26","A total solar eclipse occurred in North America."
+"05/09"," A Unabomber bomb injures Northwestern University graduate student John Harris."
+"05/21","In San Francisco, gay people riot after hearing the verdict for Dan White, assassin of Mayor George Moscone and Supervisor Harvey Milk"
+"11/01","Iranian Ayatollah Ruhollah Khomeini urges his people to demonstrate on November 4 and to expand attacks on United States and Israeli interests."
+"12/03","Eleven fans are killed during a stampede for seats before The Who concert at the Riverfront Coliseum in Cincinnati, Ohio."
+
+--1980
+"02/02","The New Mexico State Penitentiary Riot takes place; 33 inmates are killed and more than 100 inmates injured."
+"06/01","The 1980 recession ends."
+"06/10","A Unabomber bomb injures United Airlines president Percy Wood in Lake Forest, Illinois."
+"11/21","A fire at the MGM Grand Hotel and Casino on the Las Vegas Strip kills 85 people."
+"12/08","John Lennon is shot and killed by Mark David Chapman in front of The Dakota apartment building in New York City."
+
 --1981
-"03/30" , " President Reagan is shot in the chest by John Hinckley, Jr."
+"01/19","United States and Iranian officials sign an agreement to release 52 American hostages after 14 months of captivity."
+"03/30","President Ronald Reagan is shot in the chest outside a Washington, D.C. hotel by John Hinckley, Jr. Two police officers and Press Secretary James Brady are also wounded."
+"07/17","Israeli aircraft bomb Beirut, destroying multi-story apartment blocks containing the offices of PLO associated groups, killing approximately 300 civilians and resulting in worldwide condemnation and a U.S. embargo on the export of aircraft to Israel"
+"08/31"," A bomb explodes at the U.S. Air Force base in Ramstein, West Germany, injuring 20 people."
+"12/28","The first American test-tube baby, Elizabeth Jordan Carr, is born in Norfolk, Virginia."
 
+--1982
+"01/28","United States Army Brigadier General James L. Dozier is rescued by the Italian anti-terrorism Nucleo Operativo Centrale di Sicurezza (NOCS) force after being held captive for 42 days by the Red Brigades."
+"08/20","A multinational force lands in Beirut to oversee the PLO withdrawal from Lebanon. French troops arrive August 21, U.S. Marines August 2"
+"11/1","The unemployment rate peaks at 10.8%."
+"12/07","The first U.S. execution by lethal injection is carried out in Texas."
+"12/23","The United States Environmental Protection Agency recommends the evacuation of Times Beach, Missouri, due to dangerous levels of dioxin contamination."
 
----1990
-"01/29","United States President William McKinley places Alaska under military rule.
-","01/29","The American League of Professional Baseball Clubs is organized in Philadelphia, Pennsylvania with 8 founding teams.",","04/30","Hawaii becomes an official U.S. territory.","07/25","The Robert Charles Riots occur in New Orleans, Louisiana, United States.","09/08","The Galveston Hurricane makes landfall at Galveston, Texas, eventually killing 6,000–12,000 in the deadliest natural disaster in U.S. history."
----1986
-"01/28","Space Shuttle Challenger disaster claims the lives of its seven crew members.","04/14","U.S. bombs military bases in Libya in effort to deter terrorist strikes on American targets."
-"11/03"," Iran–Contra affair, White House is forced to reveal secret arms-for-hostages deals. "
----1989
-"12/20","U.S. forces invade Panama in an attempt to capture Gen. Manuel Noriega, who previously had been indicted in the U.S. on drug trafficking charges.","03/24","Oil tanker Exxon Valdez runs aground in Prince William Sound, spilling more than 10 million gallons of oil. It is the largest oil spills in U.S. history."
----1990
+--1983
+"02/18","Wah Mee massacre: 13 people are killed in an attempted robbery in Seattle, Washington."
+"04/18"," The April 1983 U.S. Embassy bombing in Beirut kills 63 people."
+"09/01","Korean Air Lines Flight 007 is shot down by a Soviet Union jet fighter when the commercial aircraft enters Soviet airspace. All 269 on board are killed including U.S. Congressman Larry McDonald."
+"10/23","Simultaneous suicide truck-bombings destroy both the French and the United States Marine Corps barracks in Beirut, killing 241 U.S. servicemen, 58 French paratroopers and 6 Lebanese civilians."
+"11/13","The first United States cruise missiles arrive at Greenham Common Airbase in England amid protests from peace campaigners."
+
+--1984
+"01/27","Michael Jackson's hair catches on fire during the filming of a Pepsi commercial."
+"04/04","President Ronald Reagan calls for an international ban on chemical weapons."
+"06/1"," William M. Gibbons is released as receiver and trustee of the Chicago, Rock Island and Pacific Railroad, after all of its debts and creditors are paid off by order of a federal bankruptcy court."
+"09/20","Hezbollah car-bombs the U.S. Embassy annex in Beirut, killing 24 people."
+"12/01","Controlled Impact Demonstration: NASA intentionally crashes a remote controlled Boeing 720."
+
+--1985
+"02/05","Australia cancels its involvement in United States-led MX missile tests."
+"03/08"," A car bomb planted in Beirut by CIA mercenaries attempts to kill Islamic cleric Sayyed Mohammad Hussein Fadlallah and kills more than 80, injuring 200."
+"10/04","The Free Software Foundation is founded in Massachusetts, USA."
+"11/19","In Geneva, U.S. President Ronald Reagan and Soviet Union leader Mikhail Gorbachev meet for the first time"
+"12/12","Arrow Air Flight 1285, a Douglas DC-8, crashes after takeoff in Gander, Newfoundland, killing 256, 248 of whom were U.S. servicemen returning to Fort Campbell, Kentucky from overseeing a peacekeeping force in Sinai."
+
+--1986
+"01/28","Space Shuttle Challenger disaster claims the lives of its seven crew members."
+"04/14","U.S. bombs military bases in Libya in effort to deter terrorist strikes on American targets."
+"10/10","Cold War: Ronald Reagan and Soviet leader Mikhail Gorbachev meet in Reykjavík, Iceland, to continue discussions about scaling back their intermediate missile arsenals in Europe "
+"11/03"," Iran–Contra affair: The Lebanese magazine Ash-Shiraa reports that the United States has been selling weapons to Iran in secret, in order to secure the release of 7 American hostages held by pro-Iranian groups in Lebanon."
+"11/25"," U.S. Attorney General Edwin Meese announces that profits from covert weapons sales to Iran were illegally diverted to the anti-communist Contra rebels in Nicaragua."
+
+--1987
+"02/26","The Tower Commission rebukes U.S. President Ronald Reagan for not controlling his National Security Council staff."
+"05/17","U.S.S. Stark was hit by two Iraqi owned Exocet AM39 air-to-surface missiles killing 37 sailors."
+"10/19","Black Monday: Stock market levels fall sharply on Wall Street and around the world."
+"11/18","U.S. Senate and House panels release reports charging President Ronald Reagan with 'ultimate responsibility' for the affair."
+"12/09"," Microsoft releases Windows 2.0."
+
+--1988
+"02/16"," Gunman Richard Farley kills seven people inside his former workplace, ESL Incorporated in Sunnyvale, California. He had been stalking colleague Laura Black who still worked there; however, she survived the shooting. Farley is currently on death row."
+"05/16","A report by U.S. Surgeon General C. Everett Koop states that the addictive properties of nicotine are similar to those of heroin and cocaine."
+"06/01","The Intermediate-Range Nuclear Forces Treaty, banning intermediate-range missiles in the United States and the Soviet Union, comes into effect."
+"11/18","President Ronald Reagan signs a bill providing the death penalty for murderous drug traffickers."
+"12/21","Pan Am Flight 103 is destroyed by a bomb over Lockerbie, Scotland, United Kingdom; killing 270 people, including 178 U.S. citizens."
+
+--1989
+"01/24","Serial killer Theodore Bundy is executed in Florida's electric chair."
+"03/14","President George H. W. Bush bans the importation of certain guns deemed assault weapons into the United States."
+"03/22","Congress passes a bill to protect the job of whistle blowers who expose government waste or fraud."
+"06/21","In Texas v. Johnson, the United States Supreme Court ruled that burning the Flag of the United States was protected speech under the First Amendment to the United States Constitution."
+"12/02","Solar Maximum Mission research satellite, launched in 1980, crashes back to earth."
+
+--1990
+"01/29","trial of Joseph Hazelwood, former skipper of the Exxon Valdez, begins in Anchorage, Alaska. He is accused of negligence that resulted in America's worst oil spill to date."
+"03/01"," Nuclear Regulatory Commission approves a license for the long-delayed Seabrook Station Nuclear Power Plant."
+"06/01","President George H. W. Bush and Soviet Union leader Mikhail Gorbachev sign the Chemical Weapons Accord to end chemical weapon production and begin destroying their respective stocks."
 "09/02","Iraqi troops invade Kuwait, leading to the Persian Gulf War."
---1995
-"04/19" , " Bombing of federal office building in Oklahoma City kills 168 people."
+"9/11"," Gulf War: President George H. W. Bush delivers a nationally televised speech in which he threatens the use of force to remove Iraqi soldiers from Kuwait."
 
-"08/20" , " U.S. launches missile attacks on targets in Sudan and Afghanistan following terrorist attacks on U.S. embassies in Kenya and Tanzania."
-
----1991
+--1991
+"02/19","Gulf War: Two laser-guided bombs destroy an underground bunker in Baghdad, killing 314 Iraqis including 130 children. United States military intelligence claims the structure was transmitting military signals but Iraqi officials identify it as a bomb shelter"
 "04/06","Iraq accepts terms of UN ceasefire, marking an end of the war."
---1998
-"12/16" , " U.S. and Britain launch air strikes against weapons sites in Iraq."
---1999
-"04/20", "School shooting at Columbine High School in Littleton, Colorado, leaves 14 students and 1 teacher dead and 23 others wounded." 
----2000
-"03/20","Jamil Abdullah Al-Amin (H. Rap Brown), a former Black Panther, is captured after a gun battle in Atlanta, Georgia that leaves a sheriff's deputy dead.","03/27","The Phillips explosion of 2000 kills one and injures 71 in Pasadena, Texas.
-","05/24","Five people are shot and killed during a robbery at a Wendy's in Queens, New York.
-","08/03","The Republican National Convention in Philadelphia, Pennsylvania nominates Texas Governor George W. Bush for U.S. President and Dick Cheney for Vice President.
-","10/11","250 million US gallons (950,000 m3) of coal sludge spill in Martin County, Kentucky (considered a greater environmental disaster than the Exxon Valdez oil spill)."
---2001
-"09/11","Two hijacked jetliners ram twin towers of World Trade Center in worst terrorist attack against U.S.; a third hijacked plane flies into the Pentagon, and a fourth crashes in rural Pennsylvania. More than 3,000 people die in the attacks."
---2002
-"01/29" , " President Bush signs legislation creating a new cabinet department of Homeland Security."
---2003
-"02/1","Space shuttle Columbia explodes upon reentry into Earth's atmosphere, killing all seven astronauts on board."
-"03/28" , "War waged by the U.S. and Britain against Iraq begins."
---2004
+"07/22","Serial killer Jeffrey Dahmer is arrested after the remains of eleven men and boys are found in his Milwaukee, Wisconsin apartment. Police soon find out that he is involved in six more murders."
+"08/23","The Super Nintendo Entertainment System (Super Nintendo) is first released in the United States."
+"11/01","University of Iowa shooting. Former alumnus Gang Lu, kills five people before committing suicide."
 
---2005
-"08/29-30", "Hurricane Katrina wreaks catastrophic damage on Mississippi and Louisiana; 80% of New Orleans is flooded. All levels of government are criticized for the delayed and inadequate response to the disaster."
+--1992
+"03/31","USS Missouri (BB-63), the last active U.S. Navy battleship, is decommissioned at Long Beach, California."
+"08/21","Events at Ruby Ridge, Idaho are sparked by a Federal Marshal surveillance team, resulting in the death of a Marshal, Sam Weaver and his dog and the next day the wounding of Randy Weaver, the death of his wife Vicki and the wounding of Kevin Harris."
+"10/09","A 13-kilogram (29-pound) meteorite lands in the driveway of the Knapp residence in Peekskill, New York, destroying the family's Chevrolet Malibu. It becomes known as the Peekskill Meteorite."
+"10/17","Yoshihiro Hattori, a 16-year-old Japanese exchange student, mistakes the address of a party and is shot dead after knocking on the wrong door in Baton Rouge, Louisiana. The shooter, Rodney Peairs, is later acquitted, sparking outrage in Japan."
+"12/03","UN Security Council Resolution 794 is unanimously passed, approving a coalition of United Nations peacekeepers led by the United "
+
+--1993
+"01/25"," Mir Aimal Kasi fires a rifle and kills two employees outside CIA headquarters in Langley, Virginia."
+"02/08"," General Motors Corporation sues NBC, after Dateline NBC allegedly rigged two crashes showing that some GM pickups can easily catch fire if hit in certain places. NBC settles the lawsuit the following day."
+"02/26","World Trade Center bombing: In New York City, a van bomb parked below the North Tower of the World Trade Center explodes, killing six and injuring over 1,000."
+"12/02"," STS-61: NASA launches the Space Shuttle Endeavour on a mission to repair an optical flaw in the Hubble Space Telescope."
+"12/11"," A variety of Soviet space program paraphernalia are put to auction in Sotheby's New York, and sell for a total of US$6,800,000. One of the items is Lunokhod 1 and its spacecraft Luna 17; they sell for $68,500."
+
+--1994
+"02/28","United States F-16 pilots shoot down 4 Serbian fighter aircraft over Bosnia and Herzegovina for violation of the Operation Deny Flight and its no-fly zone."
+"03/01","A lone terrorist kills Ari Halberstam during an attack on 14 Jewish students on the Brooklyn Bridge in New York City"
+"05/10"," Illinois executes serial killer John Wayne Gacy by lethal injection for the murder of 33 young men and boys."
+"06/17","NFL star O.J. Simpson and his friend Al Cowlings flee from police in his white Ford Bronco. The low-speed chase ends at Simpson's Brentwood, Los Angeles, California mansion, where he surrenders."
+"12/27","After experiencing a hacker attack by Kevin Mitnick, computer security expert Tsutomu Shimomura started to receive prank calls that popularized the trope (My kung fu is stronger than yours)"
+
+--1995
+"02/15","Hacker Kevin Mitnick is arrested by the FBI and charged with breaking into some of the United States' most secure computer systems."
+"03/16","Mississippi ratifies the Thirteenth Amendment, becoming the last state to approve the abolition of slavery"
+"04/19" , " Bombing of federal office building in Oklahoma City kills 168 people."
+"06/06","U.S. astronaut Norman Thagard breaks NASA's space endurance record of 14 days, 1 hour and 16 minutes, aboard the Russian space station Mir."
+"10/25","A Metra commuter train slams into a school bus in Fox River Grove, Illinois, killing seven students."
+
+--1996
+"01/07","One of the worst blizzards in American history hits the eastern states, killing more than 150 people. Philadelphia receives a record 30.7 inches of snowfall, New York City's public schools close for the first time in 18 years and the federal government in Washington, D.C. is closed for days."
+"01/19","The North Cape oil spill occurs as an engine fire forces the tugboat Scandia ashore on Moonstone Beach in South Kingstown, Rhode Island. The North Cape barge is pulled along with it and leaks 820,000 gallons of home heating oil."
+"02/24","Cuban fighter jets shoot down 2 American aircraft belonging to the Cuban exile group, Brothers to the Rescue. Cuban officials assert that they invaded Cuban airspace."
+"08/06","NASA announces that the Allan Hills 84001 meteorite, thought to originate from Mars, contains evidence of primitive life-forms."
+"08/16","Binti Jua, a gorilla, saves a three-year-old boy who fell into the 20 foot "
+
+--1997
+"03/04","President Bill Clinton bars federal funding for any research on human cloning."
+"03/13","The Phoenix Lights are seen over Phoenix, Arizona."
+"06/07","A computer user known as (_eci) publishes his C source code on a Windows 95 and Windows NT exploit, which later becomes WinNuke. The source code gets wide distribution across the internet, and Microsoft is forced to release a security patch."
+"08/06"," Microsoft buys a $150 million share of financially troubled Apple Computer."
+"11/12"," Ramzi Yousef is found guilty of masterminding the 1993 World Trade Center bombing."
+
+--1998
+"01/17","Paula Jones accuses U.S. President Bill Clinton of sexual harassment."
+"05/18","The United States Department of Justice and 20 U.S. states file an antitrust case against Microsoft."
+"05/28","Nuclear testing: In response to a series of Indian nuclear tests, Pakistan explodes 5 nuclear devices of its own in the Chaghai hills of Baluchistan, prompting the United States, Japan and other nations to impose economic sanctions."
+"08/07","U.S. embassy bombings: The bombings of the United States embassies in Dar es Salaam, Tanzania, and Nairobi, Kenya kill 224 people and injure over 4,500; they are linked to terrorist Osama bin Laden, an exile of Saudi Arabia."
+"12/16","President Bill Clinton orders American and British airstrikes on Iraq. UNSCOM withdraws all weapons inspectors from Iraq."
+
+--1999
+"05/01","The animated children's TV series SpongeBob SquarePants debuts on the cable network Nickelodeon."
+"07/02","Benjamin Nathaniel Smith begins a 3-day killing spree targeting racial and ethnic minorities in Illinois and Indiana."
+"07/31","Mark O. Barton kills his family. He then went on a murder spree at the trading firm he worked at, killing a total of 12 people in Atlanta, Georgia. He later committed suicide at a gas station when cornered by police."
+"11/18","The Aggie Bonfire collapses in College Station, Texas, killing 12."
+"12/18","NASA launches into orbit the Terra platform, carrying 5 Earth Observation instruments, including ASTER, CERES, MISR, MODIS and MOPITT."
+
+--2000
+"03/20","Jamil Abdullah Al-Amin (H. Rap Brown), a former Black Panther, is captured after a gun battle in Atlanta, Georgia that leaves a sheriff's deputy dead."
+"03/27","The Phillips explosion of 2000 kills one and injures 71 in Pasadena, Texas."
+"05/24","Five people are shot and killed during a robbery at a Wendy's in Queens, New York."
+"08/03","The Republican National Convention in Philadelphia, Pennsylvania nominates Texas Governor George W. Bush for U.S. President and Dick Cheney for Vice President."
+"10/11","250 million US gallons (950,000 m3) of coal sludge spill in Martin County, Kentucky (considered a greater environmental disaster than the Exxon Valdez oil spill).","12/26","Wakefield Massacre. Michael McDermott kills 7 coworkers at Edgewater Technology in Wakefield, Massachusetts."
