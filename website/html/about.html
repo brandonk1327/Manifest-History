@@ -5,39 +5,158 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> Manifest History - About </title>
-    <link rel="stylesheet" type="text/css" href="../css/style.css">
-            
+    <title> Manifest History - Meet the Team </title>
+  <link rel="stylesheet" type="text/css" href="../css/style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+      background-color: #1abc9c; /* Green */
+      color: #ffffff;
+  }
+  .bg-2 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  .bg-4 { 
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+
+    /**CARD**/
+      .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.title {
+    color: grey;
+    font-size: 18px;
+}
+
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+}
+
+button:hover, a:hover {
+    opacity: 0.7;
+}
+  </style>
 </head>
 
 <body>
-    <nav>
-        <div id="mySidenav" class="sidenav">
-            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="meet.html">Meet the Team</a>
-        </div>
-
-        <h2>Manifest History</h2>
-        <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
-
-        <script>
-            function openNav() {
-                document.getElementById("mySidenav").style.width = "250px";
-            }
-
-            function closeNav() {
-                document.getElementById("mySidenav").style.width = "0";
-            }
-
-        </script>
-    </nav>
-    <div>
-        <h2 class="abt">About</h2>
-        <p>Our goal of this project is to creative an interactive map to assist people with learning history as it happened. The user will be able to interact with the map using pins that can be activated by hovering or clicking. Our current span of history only includes the 19th century and a limited amount of pins per year. </p>
-        <p>We do not own any of the information or historical texts that are displayed on our webpage, but are just acting as a gateway for people to easily view and explore it. Since this website is a project for our Sophomore Project class at Oakland University our site is not monetized and is for our educational purposes only.</p>
+<!-- Navbar -->
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="index.html">Home</a>
     </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="about.html">About</a></li>
+        <li><a href="meet.html">Meet the Team</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    
+    <!--First Container-->
+<div class="container-fluid text-center bg-3">    
+<h2>About Manifest History</h2>
+    <h3>Goals</h3>
+    <p>Our goal of this project is to creative an interactive map to assist people with learning history as it happened. The user will be able to interact with the map using pins that can be activated by hovering or clicking. Our current span of history only includes the 19th century and a limited amount of pins per year.</p>
+<p>We do not own any of the information or historical texts that are displayed on our webpage, but are just acting as a gateway for people to easily view and explore it. Since this website is a project for our Sophomore Project class at Oakland University our site is not monetized and is for our educational purposes only.</p>
+    <h3>How it works</h3>
+<p>This project was coded primarily to be web based. Every functionality of the project works through the user's browser. This makes it easily accessible to anyone that would like to use it. It can also be run client sided, because the code is mostly client side. It was coded in HTML and JavaScript. HTML (along with CSS and Bootstrap) being the code that makes the webpage look nice, adds hyperlinks, and gives structure to the page. JavaScript adds the functionality of the web app that the user will be going through.</p>
+<p>The project was tracked and version controled through the use of git; using GitHub also to provide the project on the web.</p>
+</div>
+    <!-- Second Container-->
+<div class="container-fluid text-center bg-4">
+    <h1>Learn more about the languages and tools through these links</h1>
+    <div class="col-sm-4 text-center bg-4">
+        <a href="https://www.javascript.com/"><img src="../assets/img/JavaScript-Logo.png" alt="jslogo" width="40%"></a>
+        <h1>JavaScript</h1>
+        <p></p>
+    </div>
+    <div class="col-sm-4 text-center bg-4">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="../assets/img/HTML5-Logo.png" alt="htmllogo" width="40%"></a>
+        <h1>HTML5</h1>
+        <p></p>
+    </div>
+        <div class="col-sm-4 text-center bg-4">
+        <a href="https://getbootstrap.com/"><img src="../assets/img/Boostrap-logo.png" alt="boot    logo" width="40%"></a>
+        <h1>Bootstrap</h1>
+        <p></p>
+    </div>
+<div class="container-fluid text-center bg-4">
+<div class="col-sm-12 text-center bg-4">
+    <a href="https://github.com/"><img src="../assets/img/Github-logo.png" alt="ghlogo" width="10%"></a>
+            <h1>GitHub</h1>
+            <a href="https://github.com/brandonk1327/Manifest-History"><h3>Find our project on GitHub here!</h3></a>
+            </div>
+        
+        </div>
+    
+    
+    
+    </div>
+<footer class="container-fluid text-center bg-2">
+  <p>Manifest History -- Oakland University -- 2018</p>
+</footer>
 </body>
 
 </html>
