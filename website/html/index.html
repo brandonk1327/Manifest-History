@@ -85,6 +85,9 @@
 	.table-responsive {
 		margin-left: 20px;
 	}
+        body {
+            background-color: #AADCFF;
+        }
     </style>
 </head>
 
@@ -107,7 +110,7 @@
     </div>
   </div>
 </nav>
-    <div class="container-fluid text-center bg-3">
+    <div class="container-fluid text-center">
     <h2>Manifest History</h2>
         </div>
     <!-- Start of Modals -->
@@ -122,7 +125,7 @@
         </div>
     </div>
 
-    <div id="ohio" class="modal bg-3">
+    <div id="ohio" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
             <h4>Ohio</h4>
@@ -494,18 +497,19 @@
 	
 	<!-- Slider -->
 	
-	<div class="container-fluid text-center bg-3">
+	<div class="container-fluid text-center">
 		<div class="card-fluid text-center">
 	
 		<input type="range" min="1900" max="2000" value="1900" class="slider" id="myRange" size="50%" oninput="updateData()">
 		<p></p>
 			<input id="yearText" type="text" name="Yeartxt" value="Year">
 			<input id="yearButton" onclick="textInput()" type="submit" value="Enter">
+
 			<p></p>		
 		<div class="btn-group">
 				<p>Year: <span id="demo"></span></p>
 				<button id="buttonDown" onclick="decrease()"><span class="glyphicon glyphicon-minus"></span></button>
-            <button id="buttonUp" onclick="increase()"><span class="glyphicon glyphicon-plus"></span></button>
+            <button id="buttonUp" onclick="increase()"><span class="glyphicon glyphicon-plus"></span></button>  
 			</div>	
         </div>
         
